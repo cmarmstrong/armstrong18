@@ -1,0 +1,55 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Gotway%
+\ \BBA {} Stroup%
+}{%
+Gotway%
+\ \BBA {} Stroup%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+gotway97}
+\APACinsertmetastar {%
+gotway97}%
+\begin{APACrefauthors}%
+Gotway, C\BPBI A.%
+\BCBT {}\ \BBA {} Stroup, W\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A generalized linear model approach to spatial data
+  analysis and prediction} {A generalized linear model approach to spatial data
+  analysis and prediction}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Agricultural, Biological, and Environmental
+  Statistics}{2}{2}{157-178}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Minnesota Population Center}%
+}{%
+{Minnesota Population Center}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+ipumsi}
+\APACinsertmetastar {%
+ipumsi}%
+\begin{APACrefauthors}%
+{Minnesota Population Center}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {Integrated Public Use Microdata Series, International: Version
+  7.1 [dataset].} {Integrated public use microdata series, international:
+  Version 7.1 [dataset].}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.18128/D020.V7.1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

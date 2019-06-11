@@ -1,0 +1,32 @@
+% quantifying uncertainty.  the bootstrap.  (for examples see \cite{ghimire12, defries00}.)
+
+% The bootstrap was developed in a 1979 article by Efron \cite{efron79}, based on the similar but simpler jackknife.  The bootstrap estimates uncertainty by assuming that {\em resamples} from the sample data relate to the sample data in the same way that the sample data relates to the population.  Conventional parametric statistics usually quantify uncertainty by invoking the Central Limit Theorem, which states that the averages of infinite samples of size $n$ from a population will approach a normal distribution.  Hence the statistical estimtes--which are means--may be assumed to be drawn from a normal distribution whose parameters can be estimated from the data.  The bootstrap, instead, directly probes sample properties by drawing resamples.  The caveat of the bootstrap is that the resample must be generated in the same way as the sample.  If the cases in the data are independent from each other, then it's simple enough to replicate the sample with random draws; complex survey designs and dependent data, however, must be more thoughtful.
+% describe here how bootstrap quantifies uncertainty
+
+% The basic bootstrap is not suitable for dependent data, including all spatial data, but in a 1989 paper K\"{u}nsch \cite{kunsch89} introduces the {\em block-boostrap} as a method for bootstrapping dependent data.  The block-bootstrap is actually similar to the older jackknife methods, and resamples blocks of cases rather than individual subjects.  % will need a previous jackknife citation and discussion to summarize jackknife; see kunsch
+% Under the theory of the block-bootstrap, blocks of cases retain their dependence structure.  A block of spatial data is simply a contiguous patch of land, e.g. a neighborhood of raster cells or all cases within an administrative division.
+
+% When employing the block-bootstrap, The blocks may be either overlapping or non-overlapping.  Non-overlapping block-bootstrap divides the space into square blocks, and resamples these blocks of data.  The overlapping version simply resamples from all original spatial data cases, and along with the sampled case also selects those from some neighboring area.  The size and number of blocks to resample is not always obvious, but some have researched methods for determining optimal block size (see for example \cite{nordman07}.)
+
+% As the goal is to spatially redistribute demographic data, the bootstrap could be applied to either or both of the demographic and spatial data.  The first option is to bootstrap only the demographic data.  This option resamples demographic data, stratified by source geographic zones if necessary, and fits the resampled data to the full spatial data.  The second option is to bootstrap only the spatial data.  This option requires preservation of the spatial dependence in the data, which is accomplished with the block-bootstrap, previously described.  The third and final option bootstraps both spatial and demographic data, and furthermore has two variants depending upon the order of the bootstrap.  One can first resample the demographic data, then resample blocks of spatial data, and proportion the demographic data between the blocks as usual.  Alternatively, one could first resample spatial blocks of data, then resample demographic data within each block, again with the demographic data proportionally stratafied given the area of each source zone within the block.  The second option would seem to be more thoroughly mixed, since the demographic data is resampled for each spatial block, rather than resampled only once and reused for all the blocks.
+
+% is this necessary?
+% Leo Breiman, in a 1994 technical report, propopsed a method for applying bootstrap methodology to machine learning models.  Breiman's technique generated $m$ resampled data sets, and fit a classifier to each resample.  The resulting classifications are then aggregated to an average classification, giving the technique its name: bootstrap-aggregating, or bagging.
+% With the block-bootstrap, bagging can be used to classify dependent data, including time series and spatial data.  Indeed, bagging is among the most successful classifiers for population density estimation \cite{} and land use classification \cite{gomez16}.  % more examples
+
+%% ONLY IF BOOTSTRAP
+% use focal statistics to implement block-bootstrap by assigning each spatial variable it's average over a local neighborhood.
+% supplement each cell with summaries of data in a surrounding neighborhood.
+% Focal statistics are calculated for a square block of 6.3 kilometers around each cell, taking a simple mean over the block; in this fashion the values at each cell represent a 6.3 kilometer block.
+% The values for each independent variable represent an average value over a neighborhood of about 6 kilometers, thus allowing for the effects of spatial dependence.
+% The distribution and uncertainty of the model is analyzed using a bootstrap.  The bootstrap resamples from among all raster cells in the data.  Because the model is large and can require substantial running time, we opted for 120 bootstrap resamples, although it is not uncommon for bootstrap models to use 10000 or more resamples.
+
+%% ONLY IF IMMIGRATION
+% The immigration data represents proportion of immigrants in each municipality, so it is fit using a binomial distribution--commonly known as a logistic regression model.  The following equation describes the from for each of these models.
+% The model estimates two forms of immigration: internal migration between provinces, and international migration.  One model analyzes both types of migrants, while another analyzes only international migrants.
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "main"
+%%% End:

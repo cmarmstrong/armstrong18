@@ -1,0 +1,30 @@
+#! /bin/bash
+#PBS -A ERDCH35228ART
+#PBS -q standard
+#PBS -l select=1:ncpus=44:mpiprocs=1:bigmem=1
+#PBS -l walltime=80:00:00
+
+## Execution Block ----------------------------------------
+# Environment Setup
+# the following environment variable is not required, but will
+# optimally assign processes to cores and improve memory use.
+export MPI_DSM_DISTRIBUTE=yes
+
+# cd to your scratch directory in /work
+cd ${WORKDIR}
+
+# create a job-specific subdirectory based on JOBID and cd to it
+JOBID=`echo ${PBS_JOBID} | cut -d '.' -f 1`
+if [ ! -d ${JOBID} ]; then
+  mkdir -p ${JOBID}
+fi
+cd ${JOBID}
+
+# stage input data from archive
+# archive get -C ${ARCHIVE_HOME}/my_data_dir "*.dat"
+
+# copy the executable from $HOME
+cp "../$script" .
+
+## Launching ----------------------------------------------
+aprun -n 1 -N 1 Rscript >>output.txt 2>&1 "$script"
