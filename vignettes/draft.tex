@@ -301,15 +301,18 @@ Along with the SVI, we have a set of geospatial predictors at the target support
 % Review of the literature also suggests that, for land use classification, kriging is more often applied {\em post hoc} to existing land use classifications as a means to improve spatial uncertainty quantification (see for example \citep{freeman06, debruin00}.)
 
 \begin{table}
-\begin{tabular}{l p{5cm} l}
-  \bf{variable} & \bf{source} & \bf{vulnerability relation} \\
-  urban landcover & \citep{basevue13} & accessibility \\
-  agricultural landcover & \citep{basevue13} & socioeconomic status \\
-  nighttime lights & \citep{elvidge17} & infrastructure \\
-  population density & \citep{landscan} & socioeconomic status \\
-  access to cities & \citep{weiss18} & accessibility \\
-\end{tabular}
-\caption{Predictors of SVI for RK model} \label{tab:predictors}
+  \begin{tabular}{l p{5cm} l}
+    \hline
+    \bf{variable} & \bf{source} & \bf{vulnerability relation} \\
+    \hline
+    urban landcover & \citep{basevue13} & accessibility \\
+    agricultural landcover & \citep{basevue13} & socioeconomic status \\
+    nighttime lights & \citep{elvidge17} & infrastructure \\
+    population density & \citep{landscan} & socioeconomic status \\
+    access to cities & \citep{weiss18} & accessibility \\
+    \hline
+  \end{tabular}
+  \caption{Predictors of SVI for RK model} \label{tab:predictors}
 \end{table}
 
 The data in table~\ref{tab:predictors} are the predictors to essentially a RWDM model of social vulnerability.  In our case, we will use KED to fit the $\bm{\beta}$ values, but as discussed the results are very similar to UK.  The SVI is a continuous linear value, so it could be fit with a simple OLS model.  The following equation would specify the model.
@@ -332,6 +335,7 @@ The predictor variables are population $x_{pop}$, urban landcover $x_{urban}$, a
   \subfloat[\label{fig:varNCR}]{
     \includegraphics[width=0.475\textwidth]{var.pdf}
   }
+  \caption{Social vulnerability (a) and prediction variance (b), National Capital Region, the Philippines, 1km scale}
 \end{figure}
 
 Figure~\ref{fig:svi} display the results of downscaling social vulnerability.  Associated with the model is interpolation uncertainty quantification, plotted around the National Capital Region, in figure~\ref{fig:varNCR}, this represents uncertainty due to the sizes of the input polygons; larger polygons and those further from other polygons have greater interpolation uncertainty--notice that islands and areas associated with Central Luzon--where administrative divisions encompass larger area--have higher uncertainty.  The plot margins are the row and column means of the plotted values--these can help highlight isolated and outlying areas that viewers might miss, for example the spots of high vulnerability in Palawan and Muslim Mindinao.
