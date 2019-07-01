@@ -1,0 +1,1761 @@
+GDLCode,iso_code,ISO2,country,region
+AFGr101,AFG,AF,Afghanistan,Central (Kabul Wardak Kapisa Logar Parwan Panjsher)
+AFGr102,AFG,AF,Afghanistan,Central Highlands (Bamyan Daikundi)
+AFGr103,AFG,AF,Afghanistan,East (Nangarhar Kunar Laghman Nooristan)
+AFGr104,AFG,AF,Afghanistan,North (Samangan Sar-e-Pul Balkh Jawzjan Faryab)
+AFGr105,AFG,AF,Afghanistan,North East (Baghlan Takhar Badakhshan Kunduz)
+AFGr106,AFG,AF,Afghanistan,South (Uruzgan Helmand Zabul Nimroz Kandahar)
+AFGr107,AFG,AF,Afghanistan,South East (Ghazni Paktya Paktika Khost)
+AFGr108,AFG,AF,Afghanistan,West (Ghor Herat Badghis Farah)
+AGOr101,AGO,AO,Angola,"Capital (Cabinda, Luanda, Kuanza Norte, Bengo)"
+AGOr102,AGO,AO,Angola,"Norte (Zaire, Uige, Malange)"
+AGOr103,AGO,AO,Angola,"Este (Lunda Norte, Moxico, Lunda Sul)"
+AGOr104,AGO,AO,Angola,"Oeste (Kuanza Sul, Benguela)"
+AGOr105,AGO,AO,Angola,"Centro Sul (Huambo, Bie, Kuando Kubango)"
+AGOr106,AGO,AO,Angola,"Sul (Namibe, Huila, Cunene)"
+ALBr101,ALB,AL,Albania,North
+ALBr102,ALB,AL,Albania,Central
+ALBr103,ALB,AL,Albania,South
+ALBr104,ALB,AL,Albania,Tirana
+AREt,ARE,AE,United Arab Emirates,Total
+ARGr101,ARG,AR,Argentina,City of Buenos Aires
+ARGr102,ARG,AR,Argentina,Rest of Buenos Aires
+ARGr103,ARG,AR,Argentina,"Catamarca, La Rioja, San Juan"
+ARGr104,ARG,AR,Argentina,Cordoba
+ARGr105,ARG,AR,Argentina,"Corrientes, Entre Rios, Misiones"
+ARGr106,ARG,AR,Argentina,"Chaco, Formosa"
+ARGr107,ARG,AR,Argentina,"Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego"
+ARGr108,ARG,AR,Argentina,"Jujuy, Salta"
+ARGr109,ARG,AR,Argentina,"La Pampa, San Luis, Mendoza"
+ARGr110,ARG,AR,Argentina,Santa Fe
+ARGr111,ARG,AR,Argentina,"Santiago del Estero, Tucuman"
+ARMr101,ARM,AM,Armenia,Aragatsotn
+ARMr102,ARM,AM,Armenia,Ararat
+ARMr103,ARM,AM,Armenia,Armavir
+ARMr104,ARM,AM,Armenia,Gegharkunik
+ARMr105,ARM,AM,Armenia,Lori
+ARMr106,ARM,AM,Armenia,Kotayk
+ARMr107,ARM,AM,Armenia,Shirak
+ARMr108,ARM,AM,Armenia,Syunik
+ARMr109,ARM,AM,Armenia,Vayots Dzor
+ARMr110,ARM,AM,Armenia,Tavush
+ARMr111,ARM,AM,Armenia,Yerevan
+AUSr101,AUS,AU,Australia,New South Wales
+AUSr102,AUS,AU,Australia,Victoria
+AUSr103,AUS,AU,Australia,Queensland
+AUSr104,AUS,AU,Australia,South Australia
+AUSr105,AUS,AU,Australia,Western Australia
+AUSr106,AUS,AU,Australia,Tasmania
+AUSr107,AUS,AU,Australia,Northern Territory
+AUSr108,AUS,AU,Australia,Australian Capital Territory
+AUTr101,AUT,AT,Austria,Burgenland
+AUTr102,AUT,AT,Austria,Niederosterreich
+AUTr103,AUT,AT,Austria,Wien
+AUTr104,AUT,AT,Austria,Karnten
+AUTr105,AUT,AT,Austria,Steiermark
+AUTr106,AUT,AT,Austria,Oberosterreich
+AUTr107,AUT,AT,Austria,Salzburg
+AUTr108,AUT,AT,Austria,Tirol
+AUTr109,AUT,AT,Austria,Vorarlberg
+BDIr101,BDI,BI,Burundi,"North (Kayanza, Kirundo, Muyinga, Ngozi)"
+BDIr102,BDI,BI,Burundi,"South (Bururi, Makamba)"
+BDIr103,BDI,BI,Burundi,"East (Cankuzo, Rutana, Ruyigi )"
+BDIr104,BDI,BI,Burundi,"West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)"
+BDIr105,BDI,BI,Burundi,"Middle (Gitega, Karuzi, Muramvya, Mwaro)"
+BENr101,BEN,BJ,Benin,Atacora (incl Donga)
+BENr102,BEN,BJ,Benin,Atlantique (incl Littoral (Cotonou))
+BENr103,BEN,BJ,Benin,Borgou (incl Alibori)
+BENr104,BEN,BJ,Benin,Mono (incl Couffo)
+BENr105,BEN,BJ,Benin,Queme (incl Plateau)
+BENr106,BEN,BJ,Benin,Zou (incl Collines)
+BGDr101,BGD,BD,Bangladesh,Barisal
+BGDr102,BGD,BD,Bangladesh,Chittagong
+BGDr103,BGD,BD,Bangladesh,Dhaka
+BGDr104,BGD,BD,Bangladesh,Khulna
+BGDr105,BGD,BD,Bangladesh,Rajshahi
+BGDr106,BGD,BD,Bangladesh,Sylhet
+BGRr101,BGR,BG,Bulgaria,Severozapaden
+BGRr102,BGR,BG,Bulgaria,Severen tsentralen
+BGRr103,BGR,BG,Bulgaria,Severoiztochen
+BGRr104,BGR,BG,Bulgaria,Yugoiztochen
+BGRr105,BGR,BG,Bulgaria,Yugozapaden
+BGRr106,BGR,BG,Bulgaria,Yuzhen tsentralen
+BIHr101,BIH,BA,Bosnia and Herzegovina,Western Bosnia
+BIHr105,BIH,BA,Bosnia and Herzegovina,Republica Srpska
+BLRr101,BLR,BY,Belarus,Brest region
+BLRr102,BLR,BY,Belarus,Vitebsk region
+BLRr103,BLR,BY,Belarus,Gomel region
+BLRr104,BLR,BY,Belarus,Grodno region
+BLRr105,BLR,BY,Belarus,Minsk region
+BLRr106,BLR,BY,Belarus,Mogilev region
+BLZr101,BLZ,BZ,Belize,"Corozal, Orange Walk"
+BLZr102,BLZ,BZ,Belize,Belize
+BLZr103,BLZ,BZ,Belize,Cayo
+BLZr104,BLZ,BZ,Belize,"Stann Creek, Toledo"
+BOLr101,BOL,BO,Bolivia,Chuquisaca
+BOLr102,BOL,BO,Bolivia,La Paz
+BOLr103,BOL,BO,Bolivia,Cochabamba
+BOLr104,BOL,BO,Bolivia,Oruro
+BOLr105,BOL,BO,Bolivia,Potosi
+BOLr106,BOL,BO,Bolivia,Tarija
+BOLr107,BOL,BO,Bolivia,Santa Cruz
+BOLr108,BOL,BO,Bolivia,Beni
+BOLr109,BOL,BO,Bolivia,Pando
+BRAr101,BRA,BR,Brazil,Rondonia
+BRAr102,BRA,BR,Brazil,Acre
+BRAr103,BRA,BR,Brazil,Amazonas
+BRAr104,BRA,BR,Brazil,Roraima
+BRAr105,BRA,BR,Brazil,Para
+BRAr106,BRA,BR,Brazil,Amapa
+BRAr107,BRA,BR,Brazil,Tocantins
+BRAr108,BRA,BR,Brazil,Maranhao
+BRAr109,BRA,BR,Brazil,Piaui
+BRAr110,BRA,BR,Brazil,Ceara
+BRAr111,BRA,BR,Brazil,Rio Grande do Norte
+BRAr112,BRA,BR,Brazil,Paraiba
+BRAr113,BRA,BR,Brazil,Pernambuco
+BRAr114,BRA,BR,Brazil,Alagoas
+BRAr115,BRA,BR,Brazil,Sergipe
+BRAr116,BRA,BR,Brazil,Bahia
+BRAr117,BRA,BR,Brazil,Minas Gerais
+BRAr118,BRA,BR,Brazil,Espirito Santo
+BRAr119,BRA,BR,Brazil,Rio de Janeiro
+BRAr120,BRA,BR,Brazil,Sao Paulo
+BRAr121,BRA,BR,Brazil,Parana
+BRAr122,BRA,BR,Brazil,Santa Catarina
+BRAr123,BRA,BR,Brazil,Rio Grande do Sul
+BRAr124,BRA,BR,Brazil,Mato Grosso do Sul
+BRAr125,BRA,BR,Brazil,Mato Grosso
+BRAr126,BRA,BR,Brazil,Goias
+BRAr127,BRA,BR,Brazil,Distrito Federal
+BRBr101,BRB,BB,Barbados,St Michael
+BRBr102,BRB,BB,Barbados,Christ Church and St. Philip
+BRBr103,BRB,BB,Barbados,"St. James, St. George, and St. Thomas"
+BRBr104,BRB,BB,Barbados,"St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John"
+BTNr101,BTN,BT,Bhutan,Bumthang
+BTNr102,BTN,BT,Bhutan,Chukha
+BTNr103,BTN,BT,Bhutan,Dagana
+BTNr104,BTN,BT,Bhutan,Gasa
+BTNr105,BTN,BT,Bhutan,Haa
+BTNr106,BTN,BT,Bhutan,Lhuntse
+BTNr107,BTN,BT,Bhutan,Mongar
+BTNr108,BTN,BT,Bhutan,Paro
+BTNr109,BTN,BT,Bhutan,Pemagatshel
+BTNr110,BTN,BT,Bhutan,Punakha
+BTNr111,BTN,BT,Bhutan,Samdrup jongkhar
+BTNr112,BTN,BT,Bhutan,Samtse
+BTNr113,BTN,BT,Bhutan,Sarpang
+BTNr114,BTN,BT,Bhutan,Thimphu
+BTNr115,BTN,BT,Bhutan,Trashigang
+BTNr116,BTN,BT,Bhutan,Trashiyangtse
+BTNr117,BTN,BT,Bhutan,Trongsa
+BTNr118,BTN,BT,Bhutan,Tsirang
+BTNr119,BTN,BT,Bhutan,Wangdi
+BTNr120,BTN,BT,Bhutan,Zhemgang
+BWAr101,BWA,BW,Botswana,Central
+BWAr102,BWA,BW,Botswana,Ghanzi
+BWAr103,BWA,BW,Botswana,Kgalagadi
+BWAr104,BWA,BW,Botswana,Kgatleng
+BWAr105,BWA,BW,Botswana,Kweneng
+BWAr106,BWA,BW,Botswana,North-East
+BWAr107,BWA,BW,Botswana,"North-West, Ngamiland"
+CAFr101,CAF,CF,Central African Republic CAR,"RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)"
+CAFr102,CAF,CF,Central African Republic CAR,"RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)"
+CAFr103,CAF,CF,Central African Republic CAR,"RS III (Ouham Pende, Ouham)"
+CAFr104,CAF,CF,Central African Republic CAR,"RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)"
+CAFr105,CAF,CF,Central African Republic CAR,"RS V (Basse Kotto, Mbornou, Houte Mbormou)"
+CAFr106,CAF,CF,Central African Republic CAR,Bangui
+CANr101,CAN,CA,Canada,Newfoundland and Labrador
+CANr102,CAN,CA,Canada,"Prince Edward Island, Yukon Territory, Northwest Territories, Nunavut"
+CANr103,CAN,CA,Canada,Nova Scotia
+CANr104,CAN,CA,Canada,New Brunswick
+CANr105,CAN,CA,Canada,Quebec
+CANr106,CAN,CA,Canada,Ontario
+CANr107,CAN,CA,Canada,Manitoba
+CANr108,CAN,CA,Canada,Saskatchewan
+CANr109,CAN,CA,Canada,Alberta
+CANr110,CAN,CA,Canada,British Columbia
+CHEr101,CHE,CH,Switzerland,Lake Geneva region
+CHEr102,CHE,CH,Switzerland,Espace Mittelland
+CHEr103,CHE,CH,Switzerland,Northwestern Switzerland
+CHEr104,CHE,CH,Switzerland,Zurich
+CHEr105,CHE,CH,Switzerland,Eastern Switzerland
+CHEr106,CHE,CH,Switzerland,Central Switzerland
+CHEr107,CHE,CH,Switzerland,Ticino
+CHLr101,CHL,CL,Chili,Tarapaca (incl Arica and Parinacota)
+CHLr102,CHL,CL,Chili,Antofagasta
+CHLr103,CHL,CL,Chili,Atacama
+CHLr104,CHL,CL,Chili,Coquimbo
+CHLr105,CHL,CL,Chili,Valparaiso (former Aconcagua)
+CHLr106,CHL,CL,Chili,OHiggins
+CHLr107,CHL,CL,Chili,Maule
+CHLr108,CHL,CL,Chili,Bio Bio
+CHLr109,CHL,CL,Chili,Arbucania
+CHLr110,CHL,CL,Chili,Los Lagos (incl Los Rios)
+CHLr111,CHL,CL,Chili,Aisen
+CHLr112,CHL,CL,Chili,Magallanes and La Antartica Chilena
+CHLr113,CHL,CL,Chili,Region Metropolitana
+CHNr301,CHN,CN,China,Beijing
+CHNr302,CHN,CN,China,Tianjin
+CHNr303,CHN,CN,China,Hebei
+CHNr304,CHN,CN,China,Shanxi
+CHNr305,CHN,CN,China,Inner Mongolia
+CHNr306,CHN,CN,China,Liaoning
+CHNr307,CHN,CN,China,Jilin
+CHNr308,CHN,CN,China,Heilongjiang
+CHNr309,CHN,CN,China,Shanghai
+CHNr310,CHN,CN,China,Jiangsu
+CHNr311,CHN,CN,China,Zhejiang
+CHNr312,CHN,CN,China,Anhui
+CHNr313,CHN,CN,China,Fujian
+CHNr314,CHN,CN,China,Jiangxi
+CHNr315,CHN,CN,China,Shandong
+CHNr316,CHN,CN,China,Henan
+CHNr317,CHN,CN,China,Hubei
+CHNr318,CHN,CN,China,Hunan
+CHNr319,CHN,CN,China,Guangdong
+CHNr320,CHN,CN,China,Guangxi
+CHNr321,CHN,CN,China,Hainan
+CHNr322,CHN,CN,China,Chongqing
+CHNr323,CHN,CN,China,Sichuan
+CHNr324,CHN,CN,China,Guizhou
+CHNr325,CHN,CN,China,Yunnan
+CHNr326,CHN,CN,China,Tibet
+CHNr327,CHN,CN,China,Shaanxi
+CHNr328,CHN,CN,China,Gansu
+CHNr329,CHN,CN,China,Qinghai
+CHNr330,CHN,CN,China,Ningxia
+CHNr331,CHN,CN,China,Xinjiang
+CIVr103,CIV,CI,Cote d'Ivoire,Centre Nord
+CIVr105,CIV,CI,Cote d'Ivoire,Nord
+CIVr106,CIV,CI,Cote d'Ivoire,Nord Est
+CIVr107,CIV,CI,Cote d'Ivoire,Nord Ouest
+CIVr108,CIV,CI,Cote d'Ivoire,Ouest
+CIVr110,CIV,CI,Cote d'Ivoire,Sud Ouest
+CMRr101,CMR,CM,Cameroon,Adamaoua
+CMRr102,CMR,CM,Cameroon,Centre (incl Yaounde)
+CMRr103,CMR,CM,Cameroon,Est
+CMRr104,CMR,CM,Cameroon,Extreme Nord
+CMRr105,CMR,CM,Cameroon,Littoral (incl Douala)
+CMRr106,CMR,CM,Cameroon,Nord
+CMRr107,CMR,CM,Cameroon,Nord Ouest
+CMRr108,CMR,CM,Cameroon,Ouest
+CMRr109,CMR,CM,Cameroon,Sud
+CMRr110,CMR,CM,Cameroon,Sud Ouest
+CODr101,COD,CD,Congo Democratic Republic,Kinshasa
+CODr102,COD,CD,Congo Democratic Republic,Bas-Congo
+CODr103,COD,CD,Congo Democratic Republic,Bandundu
+CODr104,COD,CD,Congo Democratic Republic,Equateur
+CODr105,COD,CD,Congo Democratic Republic,Orientale
+CODr108,COD,CD,Congo Democratic Republic,Maniema
+CODr109,COD,CD,Congo Democratic Republic,Katanga
+CODr110,COD,CD,Congo Democratic Republic,Kasai Oriental
+CODr111,COD,CD,Congo Democratic Republic,Kasai Occidental
+COGr101,COG,CG,Congo Brazzaville,Brazzaville
+COGr102,COG,CG,Congo Brazzaville,Pointe Norte
+COGr103,COG,CG,Congo Brazzaville,"Sud (Kouilou excl Pointe Norte, Niari, Lekoumou, Bouenza, Pool)"
+COGr104,COG,CG,Congo Brazzaville,"Nord (Plateaux, Cuvette, Cuvette Ouest, Sangha, Likouala)"
+COLr101,COL,CO,Colombia,Antioquia (incl Medellin)
+COLr102,COL,CO,Colombia,Atlantico (incl Barranquilla)
+COLr103,COL,CO,Colombia,Bogota D.C.
+COLr107,COL,CO,Colombia,Caqueta
+COLr108,COL,CO,Colombia,Cauca
+COLr109,COL,CO,Colombia,Cesar
+COLr110,COL,CO,Colombia,Cordoba
+COLr111,COL,CO,Colombia,Cundinamarca
+COLr112,COL,CO,Colombia,Choco
+COLr113,COL,CO,Colombia,Huila
+COLr114,COL,CO,Colombia,Guajira
+COLr115,COL,CO,Colombia,Magdalena
+COLr116,COL,CO,Colombia,Meta
+COLr117,COL,CO,Colombia,Narino
+COLr118,COL,CO,Colombia,Norte de Santander
+COLr119,COL,CO,Colombia,Quindio
+COLr120,COL,CO,Colombia,Risaralda
+COLr121,COL,CO,Colombia,Santander
+COLr122,COL,CO,Colombia,Sucre
+COLr123,COL,CO,Colombia,Tolima
+COLr124,COL,CO,Colombia,Valle (incl Cali)
+COLr125,COL,CO,Colombia,Arauca
+COLr126,COL,CO,Colombia,Casanare
+COLr127,COL,CO,Colombia,Putumayo
+COLr128,COL,CO,Colombia,San Andres
+COLr129,COL,CO,Colombia,Amazonas
+COLr130,COL,CO,Colombia,Guainja
+COLr131,COL,CO,Colombia,Guaviare
+COLr132,COL,CO,Colombia,Vaupis
+COLr133,COL,CO,Colombia,Vichada
+COMr101,COM,KM,Comoros,Grande Comore (Ngazidja)
+COMr102,COM,KM,Comoros,Moheli
+COMr103,COM,KM,Comoros,Anjouan (Ndzouani)
+CPVr101,CPV,CV,Cape Verde,S.Antao
+CPVr103,CPV,CV,Cape Verde,Santiago-Interior
+CPVr105,CPV,CV,Cape Verde,Fogo
+CRIr101,CRI,CR,Costa Rica,San Jose
+CRIr102,CRI,CR,Costa Rica,Alajuela
+CRIr103,CRI,CR,Costa Rica,Cartago
+CRIr104,CRI,CR,Costa Rica,Heredia
+CRIr105,CRI,CR,Costa Rica,Guanacaste
+CRIr106,CRI,CR,Costa Rica,Puntarenas
+CRIr107,CRI,CR,Costa Rica,Limon
+CUBr101,CUB,CU,Cuba,Occidente
+CUBr102,CUB,CU,Cuba,Ciudad Habana
+CUBr103,CUB,CU,Cuba,Centro
+CUBr104,CUB,CU,Cuba,Oriente
+CYPt,CYP,CY,Cyprus,
+CZEr102,CZE,CZ,Czech Republic,Stredni Cechy
+CZEr103,CZE,CZ,Czech Republic,Jihozapad
+CZEr104,CZE,CZ,Czech Republic,Severozapad
+CZEr105,CZE,CZ,Czech Republic,Severovychod
+CZEr106,CZE,CZ,Czech Republic,Jihovychod
+CZEr107,CZE,CZ,Czech Republic,Stredni Morava
+CZEr108,CZE,CZ,Czech Republic,Moravskoslezsko
+DEUr101,DEU,DE,Germany,Baden-W?rttemberg
+DEUr102,DEU,DE,Germany,Bayern
+DEUr103,DEU,DE,Germany,Berlin
+DEUr104,DEU,DE,Germany,Brandenburg
+DEUr105,DEU,DE,Germany,Bremen
+DEUr106,DEU,DE,Germany,Hamburg
+DEUr107,DEU,DE,Germany,Hessen
+DEUr108,DEU,DE,Germany,Mecklenburg-Vorpommern
+DEUr109,DEU,DE,Germany,Niedersachsen
+DEUr110,DEU,DE,Germany,Nordrhein-Westfalen
+DEUr111,DEU,DE,Germany,Rheinland-Pfalz
+DEUr112,DEU,DE,Germany,Saarland
+DEUr113,DEU,DE,Germany,Sachsen
+DEUr114,DEU,DE,Germany,Sachsen-Anhalt
+DEUr115,DEU,DE,Germany,Schleswig-Holstein
+DEUr116,DEU,DE,Germany,Thuringen
+DJIr101,DJI,DJ,Djibouti,Djibouti
+DJIr102,DJI,DJ,Djibouti,Other Districts
+DNKr101,DNK,DK,Denmark,Hovedstaden
+DNKr102,DNK,DK,Denmark,Sjaelland
+DNKr103,DNK,DK,Denmark,Syddanmark
+DNKr104,DNK,DK,Denmark,Midtjylland
+DNKr105,DNK,DK,Denmark,Nordjylland
+DOMr101,DOM,DO,Dominican Republic,"Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)"
+DOMr102,DOM,DO,Dominican Republic,"Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)"
+DOMr103,DOM,DO,Dominican Republic,"Region II (Espaillat, Puerto Plata, Santiago)"
+DOMr104,DOM,DO,Dominican Republic,"Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)"
+DOMr105,DOM,DO,Dominican Republic,"Region IV (Independencia, Bahoruco, Barahona, Pedernales)"
+DOMr106,DOM,DO,Dominican Republic,"Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)"
+DOMr107,DOM,DO,Dominican Republic,"Region VI (San Juan, Elias Pina)"
+DOMr108,DOM,DO,Dominican Republic,"Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)"
+DOMr109,DOM,DO,Dominican Republic,"Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)"
+DZAr101,DZA,DZ,Algeria,"Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Beja?a, Chlef, Ain Defla)"
+DZAr102,DZA,DZ,Algeria,"Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)"
+DZAr103,DZA,DZ,Algeria,"Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)"
+DZAr104,DZA,DZ,Algeria,"Hauts Plateaux Centre (Djelfa, Laghouat, MSila)"
+DZAr105,DZA,DZ,Algeria,"Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)"
+DZAr106,DZA,DZ,Algeria,"Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)"
+DZAr107,DZA,DZ,Algeria,"Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)"
+ECUr101,ECU,EC,Ecuador,Coste
+ECUr102,ECU,EC,Ecuador,Sierra
+ECUr103,ECU,EC,Ecuador,Oriente
+EGYr101,EGY,EG,Egypt,Cairo
+EGYr102,EGY,EG,Egypt,Alexandria
+EGYr103,EGY,EG,Egypt,Port Said
+EGYr104,EGY,EG,Egypt,Suez
+EGYr105,EGY,EG,Egypt,Damietta
+EGYr106,EGY,EG,Egypt,Dakahlia
+EGYr107,EGY,EG,Egypt,Sharkia
+EGYr108,EGY,EG,Egypt,Kalyubia
+EGYr109,EGY,EG,Egypt,Kafr El-Sheikh
+EGYr110,EGY,EG,Egypt,Gharbia
+EGYr111,EGY,EG,Egypt,Menoufia
+EGYr112,EGY,EG,Egypt,Behera
+EGYr113,EGY,EG,Egypt,Ismailia
+EGYr114,EGY,EG,Egypt,Giza
+EGYr115,EGY,EG,Egypt,Beni Suef
+EGYr116,EGY,EG,Egypt,Fayoum
+EGYr117,EGY,EG,Egypt,Menya
+EGYr118,EGY,EG,Egypt,Assuit
+EGYr119,EGY,EG,Egypt,Souhag
+EGYr120,EGY,EG,Egypt,Qena
+EGYr121,EGY,EG,Egypt,Aswan
+EGYr122,EGY,EG,Egypt,"Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)"
+ERIr101,ERI,ER,Eritrea,Debubawi Keyih Bahri (Southern Red Sea)
+ERIr102,ERI,ER,Eritrea,Maekel (Central including Asmara)
+ERIr103,ERI,ER,Eritrea,Semenawi Keyih Bahri (Northern Red Sea)
+ERIr104,ERI,ER,Eritrea,Anseba
+ERIr105,ERI,ER,Eritrea,Gash Barka
+ERIr106,ERI,ER,Eritrea,Debub (Southern)
+ESPr101,ESP,ES,Spain,Galicia
+ESPr102,ESP,ES,Spain,Principado de Asturias
+ESPr103,ESP,ES,Spain,Cantabria
+ESPr104,ESP,ES,Spain,Pais Vasco
+ESPr105,ESP,ES,Spain,Comunidad Foral de Navarra
+ESPr106,ESP,ES,Spain,La Rioja
+ESPr107,ESP,ES,Spain,Aragon
+ESPr108,ESP,ES,Spain,Comunidad de Madrid
+ESPr109,ESP,ES,Spain,Castilla y Leon
+ESPr110,ESP,ES,Spain,Castilla-la Mancha
+ESPr111,ESP,ES,Spain,Extremadura
+ESPr112,ESP,ES,Spain,Cataluna
+ESPr113,ESP,ES,Spain,Comunidad Valenciana
+ESPr114,ESP,ES,Spain,Illes Balears
+ESPr115,ESP,ES,Spain,Andalucia
+ESPr116,ESP,ES,Spain,Region de Murcia
+ESPr119,ESP,ES,Spain,Canarias
+ESTr101,EST,EE,Estonia,Pohja-Eesti
+ESTr102,EST,EE,Estonia,Laane-Eesti
+ESTr103,EST,EE,Estonia,Kesk-Eesti
+ESTr104,EST,EE,Estonia,Kirde-Eesti
+ESTr105,EST,EE,Estonia,Louna-Eesti
+ETHr101,ETH,ET,Ethiopia,Tigray
+ETHr102,ETH,ET,Ethiopia,Affar
+ETHr103,ETH,ET,Ethiopia,Amhara
+ETHr104,ETH,ET,Ethiopia,Oromiya
+ETHr105,ETH,ET,Ethiopia,Somali
+ETHr106,ETH,ET,Ethiopia,Ben-Gumz
+ETHr107,ETH,ET,Ethiopia,SNNP
+ETHr108,ETH,ET,Ethiopia,Gambela
+ETHr109,ETH,ET,Ethiopia,Harari
+ETHr110,ETH,ET,Ethiopia,Addis
+ETHr111,ETH,ET,Ethiopia,Dire Dawa
+FINr101,FIN,FI,Finland,Lansi-Suomi
+FINr103,FIN,FI,Finland,Etela-Suomi
+FINr104,FIN,FI,Finland,Pohjois-ja Ita-Suomi
+FRAr127,FRA,FR,France,French Guyana
+GABr101,GAB,GA,Gabon,Estuaire
+GABr102,GAB,GA,Gabon,Haut Ogooue
+GABr103,GAB,GA,Gabon,Moyen Ogooue
+GABr104,GAB,GA,Gabon,Ngounie
+GABr105,GAB,GA,Gabon,Nyanga
+GABr106,GAB,GA,Gabon,Ogooue Ivindo
+GABr107,GAB,GA,Gabon,Ogooue Lolo
+GABr108,GAB,GA,Gabon,Ogooue Maritime
+GABr109,GAB,GA,Gabon,Woleu Ntem
+GEOr102,GEO,GE,Georgia,Ajaria
+GEOr103,GEO,GE,Georgia,Guria
+GEOr104,GEO,GE,Georgia,Imereti
+GEOr105,GEO,GE,Georgia,Kakheti
+GEOr106,GEO,GE,Georgia,Kvemo Kartli
+GEOr107,GEO,GE,Georgia,Mtskheta-Mtianeti
+GEOr108,GEO,GE,Georgia,Racha-Lochkhumi-Kvemo Svaneti
+GEOr109,GEO,GE,Georgia,Samegrelo-Zemo Svateni
+GEOr110,GEO,GE,Georgia,Samtskhe-Javakheti
+GEOr111,GEO,GE,Georgia,Shida Kartli
+GEOr112,GEO,GE,Georgia,Tbilisi
+GHAr101,GHA,GH,Ghana,Western
+GHAr102,GHA,GH,Ghana,Central
+GHAr103,GHA,GH,Ghana,Greater Accra
+GHAr104,GHA,GH,Ghana,Volta
+GHAr105,GHA,GH,Ghana,Eastern
+GHAr106,GHA,GH,Ghana,Ashanti
+GHAr107,GHA,GH,Ghana,Brong Ahafo
+GHAr108,GHA,GH,Ghana,Northern
+GHAr109,GHA,GH,Ghana,Upper West
+GHAr110,GHA,GH,Ghana,Upper East
+GNBr101,GNB,GW,Guinea Bissau,Tombali
+GNBr102,GNB,GW,Guinea Bissau,Quinara
+GNBr103,GNB,GW,Guinea Bissau,Oio
+GNBr104,GNB,GW,Guinea Bissau,Biombo
+GNBr105,GNB,GW,Guinea Bissau,Bolama
+GNBr106,GNB,GW,Guinea Bissau,Bafata
+GNBr107,GNB,GW,Guinea Bissau,Gabu
+GNBr108,GNB,GW,Guinea Bissau,Cacheu
+GNBr109,GNB,GW,Guinea Bissau,Bissau
+GNQt,GNQ,GQ,Equatorial Guinea,Total
+GRCr101,GRC,EL,Greece,Attiki
+GRCr102,GRC,EL,Greece,Voreio Aigaio
+GRCr104,GRC,EL,Greece,Kriti
+GRCr105,GRC,EL,Greece,"Anatoliki Makedonia, Thraki"
+GRCr108,GRC,EL,Greece,Ipeiros
+GRCr111,GRC,EL,Greece,Dytiki Ellada
+GRCr112,GRC,EL,Greece,Sterea Ellada
+GTMr101,GTM,GT,Guatemala,Metropolitan
+GTMr102,GTM,GT,Guatemala,North
+GTMr103,GTM,GT,Guatemala,North-Oriental
+GTMr104,GTM,GT,Guatemala,South-Oriental
+GTMr105,GTM,GT,Guatemala,Central
+GTMr106,GTM,GT,Guatemala,South-Occidental
+GTMr107,GTM,GT,Guatemala,North-Occidental
+GTMr108,GTM,GT,Guatemala,Peten
+GUYr101,GUY,GY,Guyana,Barima-Waini
+GUYr102,GUY,GY,Guyana,Pomeroon-Supenaam
+GUYr103,GUY,GY,Guyana,Essequibo Islands-West Demerara
+GUYr104,GUY,GY,Guyana,Demerara-Mahaica
+GUYr105,GUY,GY,Guyana,Mahaica-Berbice
+GUYr106,GUY,GY,Guyana,East Berbice-Corentyne
+GUYr107,GUY,GY,Guyana,Cuyuni-Mazaruni
+GUYr108,GUY,GY,Guyana,Potaro-Siparuni
+GUYr109,GUY,GY,Guyana,Upper Takutu-Upper Essequibo
+GUYr110,GUY,GY,Guyana,Upper Demerara-Berbice
+HNDr101,HND,HN,Honduras,Atlantida
+HNDr102,HND,HN,Honduras,Colon
+HNDr103,HND,HN,Honduras,Comayagua
+HNDr104,HND,HN,Honduras,Copan
+HNDr105,HND,HN,Honduras,Cortes
+HNDr106,HND,HN,Honduras,Choluteca
+HNDr107,HND,HN,Honduras,El Paraiso
+HNDr108,HND,HN,Honduras,Francisco Morazan
+HNDr109,HND,HN,Honduras,Gracias a Dios
+HNDr110,HND,HN,Honduras,Intibuca
+HNDr111,HND,HN,Honduras,Islas de la Bahia
+HNDr112,HND,HN,Honduras,La Paz
+HNDr113,HND,HN,Honduras,Lempira
+HNDr114,HND,HN,Honduras,Ocotepeque
+HNDr115,HND,HN,Honduras,Olancho
+HNDr117,HND,HN,Honduras,Valle
+HNDr118,HND,HN,Honduras,Yoro
+HRVr101,HRV,HR,Croatia,City of Zagreb
+HRVr102,HRV,HR,Croatia,County of Zagreb
+HTIr101,HTI,HT,Haiti,West (incl Metropolitain area)
+HTIr102,HTI,HT,Haiti,South-East
+HTIr103,HTI,HT,Haiti,North
+HTIr104,HTI,HT,Haiti,North-East
+HTIr105,HTI,HT,Haiti,Artibonite
+HTIr106,HTI,HT,Haiti,Centre
+HTIr107,HTI,HT,Haiti,South
+HTIr108,HTI,HT,Haiti,Grande-Anse
+HTIr109,HTI,HT,Haiti,North-West
+HUNr101,HUN,HU,Hungary,Kozep-Magyarorszag
+HUNr102,HUN,HU,Hungary,Kozep-Dunantul
+HUNr103,HUN,HU,Hungary,Nyugat-Dunantul
+HUNr104,HUN,HU,Hungary,Del-Dunantul
+HUNr105,HUN,HU,Hungary,Eszak-Magyarorszag
+HUNr106,HUN,HU,Hungary,Eszak-Alfold
+HUNr107,HUN,HU,Hungary,Del-Alfold
+IDNr101,IDN,ID,Indonesia,DI Aceh
+IDNr102,IDN,ID,Indonesia,North Sumatra
+IDNr103,IDN,ID,Indonesia,West Sumatra
+IDNr104,IDN,ID,Indonesia,Riau (incl. Riau islands)
+IDNr105,IDN,ID,Indonesia,Jambi
+IDNr106,IDN,ID,Indonesia,South Sumatra
+IDNr107,IDN,ID,Indonesia,Bengkulu
+IDNr108,IDN,ID,Indonesia,Lampung
+IDNr109,IDN,ID,Indonesia,Bangka Belitung
+IDNr110,IDN,ID,Indonesia,DKI Jakarta
+IDNr111,IDN,ID,Indonesia,West Java
+IDNr112,IDN,ID,Indonesia,Central Java
+IDNr113,IDN,ID,Indonesia,DI Yogyakarta
+IDNr114,IDN,ID,Indonesia,East Java
+IDNr115,IDN,ID,Indonesia,Banten
+IDNr116,IDN,ID,Indonesia,Bali
+IDNr117,IDN,ID,Indonesia,West Nusa Tenggara
+IDNr118,IDN,ID,Indonesia,East Nusa Tenggara
+IDNr120,IDN,ID,Indonesia,West Kalimantan
+IDNr121,IDN,ID,Indonesia,Central Kalimantan
+IDNr122,IDN,ID,Indonesia,South Kalimantan
+IDNr123,IDN,ID,Indonesia,East Kalimantan
+IDNr124,IDN,ID,Indonesia,North Sulawesi
+IDNr125,IDN,ID,Indonesia,Central Sulawesi
+IDNr126,IDN,ID,Indonesia,South Sulawesi (incl Sulawesi Barat)
+IDNr127,IDN,ID,Indonesia,Southeast Sulawesi
+IDNr128,IDN,ID,Indonesia,Gorontalo
+IDNr129,IDN,ID,Indonesia,Maluku
+IDNr130,IDN,ID,Indonesia,Irian Jaya (Papua and Papua Barat)
+INDr101,IND,IN,India,Andhra Pradesh
+INDr102,IND,IN,India,Assam
+INDr103,IND,IN,India,Bihar
+INDr104,IND,IN,India,Goa
+INDr105,IND,IN,India,Gujarat
+INDr106,IND,IN,India,Haryana
+INDr107,IND,IN,India,Himachal Pradesh
+INDr108,IND,IN,India,Jammu and Kashmir
+INDr109,IND,IN,India,Karnataka
+INDr110,IND,IN,India,Kerala
+INDr111,IND,IN,India,Madhya Pradesh
+INDr112,IND,IN,India,Maharashtra
+INDr113,IND,IN,India,Manipur
+INDr114,IND,IN,India,Meghalaya
+INDr115,IND,IN,India,Mizoram
+INDr116,IND,IN,India,Nagaland
+INDr117,IND,IN,India,Orissa
+INDr118,IND,IN,India,Punjab
+INDr119,IND,IN,India,Rajasthan
+INDr120,IND,IN,India,Sikkim
+INDr121,IND,IN,India,Tamil Nadu
+INDr122,IND,IN,India,West Bengal
+INDr123,IND,IN,India,Uttar Pradesh
+INDr124,IND,IN,India,New Delhi
+INDr125,IND,IN,India,Arunachal Pradesh
+INDr126,IND,IN,India,Tripura
+IRLr101,IRL,IE,Ireland,Border
+IRLr102,IRL,IE,Ireland,Midland
+IRLr103,IRL,IE,Ireland,West
+IRLr104,IRL,IE,Ireland,Dublin
+IRLr105,IRL,IE,Ireland,Mid-East
+IRLr106,IRL,IE,Ireland,Mid-West
+IRLr107,IRL,IE,Ireland,South-East
+IRLr108,IRL,IE,Ireland,South-West
+IRNr101,IRN,IR,Iran,Markazi
+IRNr102,IRN,IR,Iran,Gilan
+IRNr103,IRN,IR,Iran,Mazandaran
+IRNr104,IRN,IR,Iran,EastAzarbayejan
+IRNr105,IRN,IR,Iran,WestAzarbayejan
+IRNr106,IRN,IR,Iran,Kermanshah
+IRNr107,IRN,IR,Iran,Khuzestan
+IRNr108,IRN,IR,Iran,Fars
+IRNr109,IRN,IR,Iran,Kerman
+IRNr110,IRN,IR,Iran,Khorasan-e-Razavi
+IRNr111,IRN,IR,Iran,Esfahan
+IRNr112,IRN,IR,Iran,Sistanand Baluchestan
+IRNr113,IRN,IR,Iran,Kordestan
+IRNr114,IRN,IR,Iran,Hamedan
+IRNr115,IRN,IR,Iran,Chaharmahal and Bakhtiyari
+IRNr116,IRN,IR,Iran,Lorestan
+IRNr117,IRN,IR,Iran,Ilam
+IRNr118,IRN,IR,Iran,Kohgiluyeh and Boyerahmad
+IRNr119,IRN,IR,Iran,Bushehr
+IRNr120,IRN,IR,Iran,Zanjan
+IRNr121,IRN,IR,Iran,Semnan
+IRNr122,IRN,IR,Iran,Yazd
+IRNr123,IRN,IR,Iran,Hormozgan
+IRNr124,IRN,IR,Iran,Tehran and Alborz
+IRNr125,IRN,IR,Iran,Ardebil
+IRNr126,IRN,IR,Iran,Qom
+IRNr127,IRN,IR,Iran,Qazvin
+IRNr128,IRN,IR,Iran,Golestan
+IRNr129,IRN,IR,Iran,North Khorasan
+IRNr130,IRN,IR,Iran,South Khorasan
+IRQr101,IRQ,IQ,Iraq,Dohouk
+IRQr102,IRQ,IQ,Iraq,Nenava
+IRQr103,IRQ,IQ,Iraq,Suleimaniya
+IRQr104,IRQ,IQ,Iraq,Ta-amem/Karkuk
+IRQr105,IRQ,IQ,Iraq,Erbil
+IRQr106,IRQ,IQ,Iraq,Diala
+IRQr107,IRQ,IQ,Iraq,Anbar
+IRQr108,IRQ,IQ,Iraq,Baghdad
+IRQr109,IRQ,IQ,Iraq,Babylon
+IRQr110,IRQ,IQ,Iraq,Kerbela
+IRQr111,IRQ,IQ,Iraq,Wasit
+IRQr112,IRQ,IQ,Iraq,Salaheldeen
+IRQr113,IRQ,IQ,Iraq,Najaf
+IRQr114,IRQ,IQ,Iraq,Qadisiya
+IRQr115,IRQ,IQ,Iraq,Muthanna
+IRQr116,IRQ,IQ,Iraq,Thi-Qar
+IRQr117,IRQ,IQ,Iraq,Maysan
+IRQr118,IRQ,IQ,Iraq,Basra
+ISLt,ISL,IS,Iceland,Total
+ISRt,ISR,IL,Israel,Total
+JAMr101,JAM,JM,Jamaica,"Kingston, St Andrew"
+JAMr102,JAM,JM,Jamaica,"St Thomas, Portland, St Mary"
+JAMr103,JAM,JM,Jamaica,"St Ann, St Catherine"
+JAMr104,JAM,JM,Jamaica,"Trelawny, St Elizabeth"
+JAMr105,JAM,JM,Jamaica,"St James, Hanover, Westmoreland"
+JAMr106,JAM,JM,Jamaica,"Manchester, Clarendon"
+JORr101,JOR,JO,Jordan,Amman
+JORr102,JOR,JO,Jordan,Balqa
+JORr103,JOR,JO,Jordan,Zarqa
+JORr104,JOR,JO,Jordan,Madaba
+JORr105,JOR,JO,Jordan,Irbid
+JORr106,JOR,JO,Jordan,Mafraq
+JORr107,JOR,JO,Jordan,Jarash
+JORr108,JOR,JO,Jordan,Aljoun
+JORr109,JOR,JO,Jordan,Karak
+JORr110,JOR,JO,Jordan,Tafiela
+JORr111,JOR,JO,Jordan,Ma'an
+JORr112,JOR,JO,Jordan,Aqaba
+JPNr101,JPN,JP,Japan,Hokkaido
+JPNr102,JPN,JP,Japan,"Tohoku (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)"
+JPNr103,JPN,JP,Japan,"Northern-Kanto, Koshin (Ibaraki, Tochigi, Gunma)"
+JPNr104,JPN,JP,Japan,"Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)"
+JPNr105,JPN,JP,Japan,"Hokuriku (Niigata, Toyama, Ishikawa, Fukui)"
+JPNr106,JPN,JP,Japan,"Toukai (Gifu, Shizuoka, Aichi, Mie)"
+JPNr107,JPN,JP,Japan,"Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)"
+JPNr108,JPN,JP,Japan,"Chugoku (Tottori, Shimane, Okayama, Hiroshima, Yamaguchi)"
+JPNr109,JPN,JP,Japan,"Shikoku (Tokushima, Kagawa, Ehime, Kochi)"
+JPNr110,JPN,JP,Japan,"Kyushu (Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa)"
+KAZr102,KAZ,KZ,Kazakhstan,"South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)"
+KAZr103,KAZ,KZ,Kazakhstan,"West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)"
+KAZr104,KAZ,KZ,Kazakhstan,Central region (Karagandinskaya)
+KAZr105,KAZ,KZ,Kazakhstan,"North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)"
+KAZr106,KAZ,KZ,Kazakhstan,East region (East-Kazakhstanskaya)
+KENr101,KEN,KE,Kenya,Nairobi
+KENr102,KEN,KE,Kenya,Central
+KENr103,KEN,KE,Kenya,Coast
+KENr104,KEN,KE,Kenya,Eastern
+KENr105,KEN,KE,Kenya,Nyanza
+KENr106,KEN,KE,Kenya,Rift Valley
+KENr107,KEN,KE,Kenya,Western
+KENr108,KEN,KE,Kenya,North Eastern
+KGZr101,KGZ,KG,Kyrgyzstan,Bishkek
+KGZr102,KGZ,KG,Kyrgyzstan,"North (Issyk-Kul, Chuy, Talas)"
+KGZr103,KGZ,KG,Kyrgyzstan,East (Naryn)
+KGZr104,KGZ,KG,Kyrgyzstan,"South (Osh, Batken, Jalal-Abad)"
+KHMr101,KHM,KH,Cambodia,Banteay Mean Chey
+KHMr102,KHM,KH,Cambodia,Kampong Cham (incl Tboung Khmum)
+KHMr103,KHM,KH,Cambodia,Kampong Chhnang
+KHMr104,KHM,KH,Cambodia,Kampong Spueu
+KHMr105,KHM,KH,Cambodia,Kampong Thum
+KHMr106,KHM,KH,Cambodia,Kandal
+KHMr107,KHM,KH,Cambodia,Kaoh Kong
+KHMr108,KHM,KH,Cambodia,Phnom Penh
+KHMr109,KHM,KH,Cambodia,Prey Veaeng
+KHMr110,KHM,KH,Cambodia,Pousat
+KHMr111,KHM,KH,Cambodia,Svay Rieng
+KHMr112,KHM,KH,Cambodia,Takaev
+KHMr113,KHM,KH,Cambodia,Bat Dambang/Krong Pailin
+KHMr114,KHM,KH,Cambodia,Kampot/Krong Kaeb/Krong Preah Sihanouk
+KHMr115,KHM,KH,Cambodia,Preah Vihear/Stueng Traeng/Kracheh
+KHMr116,KHM,KH,Cambodia,Mondol Kiri/Rotanak Kiri
+KHMr117,KHM,KH,Cambodia,Siem Reab/Otdar Mean Chey
+KORr101,KOR,KR,South Korea,Capital Region
+KORr102,KOR,KR,South Korea,Gyeongnam Region
+KORr103,KOR,KR,South Korea,Gyeongbuk Region
+KORr104,KOR,KR,South Korea,Jeolla Region
+KORr105,KOR,KR,South Korea,Chungcheong Region
+KORr106,KOR,KR,South Korea,Gangwon Region
+KORr107,KOR,KR,South Korea,Jeju
+KSVr101,XKO,XK,Kosovo,Gjakova
+KSVr102,XKO,XK,Kosovo,Gjilan
+KSVr103,XKO,XK,Kosovo,Mitrovica
+KSVr104,XKO,XK,Kosovo,Peja
+KSVr105,XKO,XK,Kosovo,Prizren
+KSVr106,XKO,XK,Kosovo,Pristina
+KSVr107,XKO,XK,Kosovo,Ferizaj
+KWTr101,KWT,KW,Kuwait,"Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah"
+KWTr102,KWT,KW,Kuwait,Ahmadi
+KWTr103,KWT,KW,Kuwait,Al-Jahra
+LAOr101,LAO,LA,Lao,Vientiane Municipality
+LAOr102,LAO,LA,Lao,Phongsaly
+LAOr103,LAO,LA,Lao,Luangnamtha
+LAOr104,LAO,LA,Lao,Oudomxay
+LAOr105,LAO,LA,Lao,Bokeo
+LAOr106,LAO,LA,Lao,Luangprabang
+LAOr107,LAO,LA,Lao,Huaphanh
+LAOr108,LAO,LA,Lao,Sayabury
+LAOr109,LAO,LA,Lao,Xiengkhuang
+LAOr110,LAO,LA,Lao,Vientiane Province
+LAOr111,LAO,LA,Lao,Borikhamxay
+LAOr112,LAO,LA,Lao,Khammuane
+LAOr113,LAO,LA,Lao,Savannakhet
+LAOr114,LAO,LA,Lao,Saravane
+LAOr115,LAO,LA,Lao,Sekong
+LAOr116,LAO,LA,Lao,Champasack
+LAOr117,LAO,LA,Lao,Attapeu
+LBRr101,LBR,LR,Liberia,Bomi
+LBRr102,LBR,LR,Liberia,Bong
+LBRr103,LBR,LR,Liberia,Gbarpolu
+LBRr104,LBR,LR,Liberia,Grand Bassa
+LBRr105,LBR,LR,Liberia,Grand Cape Mount
+LBRr106,LBR,LR,Liberia,Grand Gedeh
+LBRr107,LBR,LR,Liberia,Grand Kru
+LBRr108,LBR,LR,Liberia,Lofa
+LBRr109,LBR,LR,Liberia,Margibi
+LBRr110,LBR,LR,Liberia,Maryland
+LBRr111,LBR,LR,Liberia,Montserrado
+LBRr112,LBR,LR,Liberia,Nimba
+LBRr113,LBR,LR,Liberia,River Cess
+LBRr114,LBR,LR,Liberia,River Gee
+LBRr115,LBR,LR,Liberia,Sinoe
+LBYr101,LBY,LY,Libya,Cyrenaica
+LBYr102,LBY,LY,Libya,Tripolitania
+LBYr103,LBY,LY,Libya,Fezzan
+LCAr101,LCA,LC,Saint Lucia,St Lucia total
+LKAt,LKA,LK,Sri Lanka,Total
+LSOr101,LSO,LS,Lesotho,Butha-Buthe
+LSOr102,LSO,LS,Lesotho,Leribe
+LSOr103,LSO,LS,Lesotho,Berea
+LSOr104,LSO,LS,Lesotho,Maseru
+LSOr105,LSO,LS,Lesotho,Mafeteng
+LSOr106,LSO,LS,Lesotho,Mohale s Hoek
+LSOr107,LSO,LS,Lesotho,Quthing
+LSOr108,LSO,LS,Lesotho,Qasha s Nek
+LSOr109,LSO,LS,Lesotho,Mokhotlong
+LSOr110,LSO,LS,Lesotho,Thaba-Tseka
+LTUr101,LTU,LT,Lithuania,Alytus County
+LTUr102,LTU,LT,Lithuania,Kaunas County
+LTUr103,LTU,LT,Lithuania,Klaipeda County
+LTUr104,LTU,LT,Lithuania,Marijampole County
+LTUr105,LTU,LT,Lithuania,Panevezys County
+LTUr106,LTU,LT,Lithuania,Siauliai County
+LTUr107,LTU,LT,Lithuania,Taurage County
+LTUr108,LTU,LT,Lithuania,Telsiai County
+LTUr109,LTU,LT,Lithuania,Utena County
+LTUr110,LTU,LT,Lithuania,Vilnius County
+LUXt,LUX,LU,Luxembourg,Total
+MARr101,MAR,MA,Morocco,North west
+MARr102,MAR,MA,Morocco,Centre north
+MARr103,MAR,MA,Morocco,Centre
+MARr104,MAR,MA,Morocco,Eastern
+MARr105,MAR,MA,Morocco,Centre south
+MARr106,MAR,MA,Morocco,Tensift
+MARr107,MAR,MA,Morocco,South
+MDAr101,MDA,MD,Moldova,North
+MDAr102,MDA,MD,Moldova,Center
+MDAr103,MDA,MD,Moldova,South
+MDAr104,MDA,MD,Moldova,Chisinau
+MDGr101,MDG,MG,Madagascar,Antananarivo
+MDGr102,MDG,MG,Madagascar,Fianarantsoa
+MDGr103,MDG,MG,Madagascar,Toamasina
+MDGr104,MDG,MG,Madagascar,Mahajanga
+MDGr105,MDG,MG,Madagascar,Toliary
+MDGr106,MDG,MG,Madagascar,Antsiranana
+MEXr101,MEX,MX,Mexico,Aguascalientes
+MEXr102,MEX,MX,Mexico,Baja California
+MEXr103,MEX,MX,Mexico,Baja California Sur
+MEXr104,MEX,MX,Mexico,Campeche
+MEXr105,MEX,MX,Mexico,Coahuila
+MEXr106,MEX,MX,Mexico,Colima
+MEXr107,MEX,MX,Mexico,Chiapas
+MEXr108,MEX,MX,Mexico,Chihuahua
+MEXr109,MEX,MX,Mexico,Distrito Federal
+MEXr110,MEX,MX,Mexico,Durango
+MEXr111,MEX,MX,Mexico,Guanajuato
+MEXr112,MEX,MX,Mexico,Guerrero
+MEXr113,MEX,MX,Mexico,Hidalgo
+MEXr114,MEX,MX,Mexico,Jalisco
+MEXr115,MEX,MX,Mexico,Mexico
+MEXr116,MEX,MX,Mexico,Michoacan de Ocampo
+MEXr117,MEX,MX,Mexico,Morelos
+MEXr118,MEX,MX,Mexico,Nayarit
+MEXr119,MEX,MX,Mexico,Nuevo Leon
+MEXr120,MEX,MX,Mexico,Oaxaca
+MEXr121,MEX,MX,Mexico,Puebla
+MEXr122,MEX,MX,Mexico,Queretaro
+MEXr123,MEX,MX,Mexico,Quintana Roo
+MEXr124,MEX,MX,Mexico,San Luis Potosi
+MEXr125,MEX,MX,Mexico,Sinaloa
+MEXr126,MEX,MX,Mexico,Sonora
+MEXr127,MEX,MX,Mexico,Tabasco
+MEXr128,MEX,MX,Mexico,Tamaulipas
+MEXr129,MEX,MX,Mexico,Tlaxcala
+MEXr130,MEX,MX,Mexico,Veracruz
+MEXr131,MEX,MX,Mexico,Yucatan
+MEXr132,MEX,MX,Mexico,Zacatecas
+MKDr101,MKD,MK,The former Yugoslav Republic o,Skopski
+MKDr102,MKD,MK,The former Yugoslav Republic o,Pelagoniski
+MKDr103,MKD,MK,The former Yugoslav Republic o,Vardarski
+MKDr104,MKD,MK,The former Yugoslav Republic o,North East
+MKDr105,MKD,MK,The former Yugoslav Republic o,South West
+MKDr106,MKD,MK,The former Yugoslav Republic o,South East
+MKDr107,MKD,MK,The former Yugoslav Republic o,Poloski
+MKDr108,MKD,MK,The former Yugoslav Republic o,East
+MLIr101,MLI,ML,Mali,Kayes
+MLIr102,MLI,ML,Mali,Koulikoro
+MLIr103,MLI,ML,Mali,Sikasso
+MLIr104,MLI,ML,Mali,Segou
+MLIr105,MLI,ML,Mali,Mopti
+MLIr106,MLI,ML,Mali,Tombouctou
+MLIr107,MLI,ML,Mali,Gao and Kidal
+MLIr108,MLI,ML,Mali,Bamako
+MMRr101,MMR,MM,Myanmar,Kachin
+MMRr102,MMR,MM,Myanmar,Kayah
+MMRr103,MMR,MM,Myanmar,Kayin
+MMRr104,MMR,MM,Myanmar,Chin
+MMRr105,MMR,MM,Myanmar,Sagaing
+MMRr106,MMR,MM,Myanmar,Taninthayi
+MMRr107,MMR,MM,Myanmar,Bago
+MMRr108,MMR,MM,Myanmar,Magway
+MMRr109,MMR,MM,Myanmar,"Mandalay, NayPyitaw"
+MMRr110,MMR,MM,Myanmar,Mon
+MMRr111,MMR,MM,Myanmar,Rakhine
+MMRr112,MMR,MM,Myanmar,Yangon
+MMRr113,MMR,MM,Myanmar,Shan
+MMRr114,MMR,MM,Myanmar,Ayeyarwaddy
+MNEr101,MNE,ME,Monte Negro,North
+MNEr102,MNE,ME,Monte Negro,Centre
+MNEr103,MNE,ME,Monte Negro,South
+MNGr101,MNG,MN,Mongolia,"Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)"
+MNGr102,MNG,MN,Mongolia,"Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)"
+MNGr103,MNG,MN,Mongolia,"Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)"
+MNGr104,MNG,MN,Mongolia,"Eastern (Dornod, Sukhbaatar, Khentii)"
+MNGr105,MNG,MN,Mongolia,Ulaanbaatar
+MOZr101,MOZ,MZ,Mozambique,Niassa
+MOZr102,MOZ,MZ,Mozambique,Cabo delgado
+MOZr103,MOZ,MZ,Mozambique,Nampula
+MOZr104,MOZ,MZ,Mozambique,Zambezia
+MOZr105,MOZ,MZ,Mozambique,Tete
+MOZr106,MOZ,MZ,Mozambique,Manica
+MOZr107,MOZ,MZ,Mozambique,Sofala
+MOZr108,MOZ,MZ,Mozambique,Inhambane
+MOZr109,MOZ,MZ,Mozambique,Gaza
+MOZr110,MOZ,MZ,Mozambique,Maputo Provincia
+MOZr111,MOZ,MZ,Mozambique,Maputo Cidade
+MRTr101,MRT,MR,Mauritania,Hodh Charghi
+MRTr102,MRT,MR,Mauritania,Hodh Gharbi
+MRTr103,MRT,MR,Mauritania,Assaba
+MRTr104,MRT,MR,Mauritania,Gorgol
+MRTr105,MRT,MR,Mauritania,Brakna
+MRTr106,MRT,MR,Mauritania,Trarza incl Nouakchott
+MRTr107,MRT,MR,Mauritania,Adrar
+MRTr108,MRT,MR,Mauritania,Nouadhibou
+MRTr109,MRT,MR,Mauritania,Tagant
+MRTr110,MRT,MR,Mauritania,Guidimagha
+MRTr111,MRT,MR,Mauritania,Tiris-Zemmour
+MUSr101,MUS,MU,Mauritius,"North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)"
+MUSr102,MUS,MU,Mauritius,"South (Grand Port, Savanne, Plaines Wilhems, Black River)"
+MUSr103,MUS,MU,Mauritius,Rodrigues
+MWIr101,MWI,MW,Malawi,Blantyre
+MWIr102,MWI,MW,Malawi,Kasungu
+MWIr103,MWI,MW,Malawi,Machinga
+MWIr104,MWI,MW,Malawi,Mangochi
+MWIr105,MWI,MW,Malawi,Mzimba
+MWIr106,MWI,MW,Malawi,Salima
+MWIr107,MWI,MW,Malawi,Thyolo
+MWIr108,MWI,MW,Malawi,Zomba
+MWIr109,MWI,MW,Malawi,Lilongwe
+MWIr110,MWI,MW,Malawi,Mulanje
+MWIr111,MWI,MW,Malawi,"Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)"
+MWIr112,MWI,MW,Malawi,"Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)"
+MWIr113,MWI,MW,Malawi,"Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)"
+MYSr101,MYS,MY,Malaysia,Johor
+MYSr102,MYS,MY,Malaysia,Kedah
+MYSr103,MYS,MY,Malaysia,Kelantan
+MYSr104,MYS,MY,Malaysia,Melaka
+MYSr105,MYS,MY,Malaysia,Negeri Sembilan
+MYSr106,MYS,MY,Malaysia,Pahang
+MYSr107,MYS,MY,Malaysia,Pulau Pinang
+MYSr108,MYS,MY,Malaysia,Perak
+MYSr109,MYS,MY,Malaysia,Perlis
+MYSr110,MYS,MY,Malaysia,Selangor
+MYSr111,MYS,MY,Malaysia,Terengganu
+MYSr112,MYS,MY,Malaysia,Sabah
+MYSr113,MYS,MY,Malaysia,Sarawak
+MYSr114,MYS,MY,Malaysia,Kuala Lumpur Federal Territory
+MYSr115,MYS,MY,Malaysia,Labuan Federal Territory
+NAMr101,NAM,,Namibia,Caprivi
+NAMr102,NAM,,Namibia,Erongo
+NAMr103,NAM,,Namibia,Hardap
+NAMr104,NAM,,Namibia,Karas
+NAMr105,NAM,,Namibia,Khomas
+NAMr106,NAM,,Namibia,Kunene
+NAMr107,NAM,,Namibia,Ohangwena
+NAMr108,NAM,,Namibia,Kavango
+NAMr109,NAM,,Namibia,Omaheke
+NAMr110,NAM,,Namibia,Omusati
+NAMr111,NAM,,Namibia,Oshana
+NAMr112,NAM,,Namibia,Oshikoto
+NAMr113,NAM,,Namibia,Otjozondjupa
+NERr101,NER,NE,Niger,Agadez
+NERr102,NER,NE,Niger,Diffa
+NERr103,NER,NE,Niger,Dosso
+NERr104,NER,NE,Niger,Maradi
+NERr105,NER,NE,Niger,Tillabery (incl Niamey)
+NERr106,NER,NE,Niger,Tahoua
+NERr107,NER,NE,Niger,Zinder
+NGAr101,NGA,NG,Nigeria,"North Central (Benue, Kwara, Niger, Plateau, Kogi, Nassarawa, Abuja (FCT))"
+NGAr102,NGA,NG,Nigeria,"North East (Bauchi, Borno, Adamawa, Taraba, Yobe, Gombe)"
+NGAr103,NGA,NG,Nigeria,"North West (Kaduna, Kano, Katsina, Sokoto, Jigawa, Kebbi, Zamfora)"
+NGAr104,NGA,NG,Nigeria,"South East (Anambra, Imo, Abia, Enugu, Ebonyi)"
+NGAr105,NGA,NG,Nigeria,"South South (Akwa Ibom, Edo, Cross River, Rivers, Delta, Bayelsa)"
+NGAr106,NGA,NG,Nigeria,"South West (Lagos, Ogun, Ondo, Oyo, Osun, Ekiti)"
+NICr101,NIC,NI,Nicaragua,"Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)"
+NICr102,NIC,NI,Nicaragua,"Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)"
+NICr103,NIC,NI,Nicaragua,"Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))"
+NLDr101,NLD,NL,Netherlands,Groningen
+NLDr102,NLD,NL,Netherlands,Friesland
+NLDr103,NLD,NL,Netherlands,Drenthe
+NLDr104,NLD,NL,Netherlands,Overijssel
+NLDr105,NLD,NL,Netherlands,Gelderland
+NLDr106,NLD,NL,Netherlands,Flevoland
+NLDr107,NLD,NL,Netherlands,Utrecht
+NLDr108,NLD,NL,Netherlands,Noord-Holland
+NLDr109,NLD,NL,Netherlands,Zuid-Holland
+NLDr110,NLD,NL,Netherlands,Zeeland
+NLDr111,NLD,NL,Netherlands,Noord-Brabant
+NLDr112,NLD,NL,Netherlands,Limburg
+NORr101,NOR,NO,Norway,Oslo og Akershus
+NORr102,NOR,NO,Norway,Hedmark og Oppland
+NORr103,NOR,NO,Norway,Sor-Ostlandet
+NORr104,NOR,NO,Norway,Agder og Rogaland
+NORr105,NOR,NO,Norway,Vestlandet
+NORr106,NOR,NO,Norway,Trondelag
+NORr107,NOR,NO,Norway,Nord-Norge
+NZLr101,NZL,NZ,New Zealand,Northland
+NZLr102,NZL,NZ,New Zealand,Auckland
+NZLr103,NZL,NZ,New Zealand,Waikato
+NZLr104,NZL,NZ,New Zealand,Bay of Plenty
+NZLr105,NZL,NZ,New Zealand,Gisborne
+NZLr106,NZL,NZ,New Zealand,Hawke's Bay
+NZLr107,NZL,NZ,New Zealand,Taranaki
+NZLr108,NZL,NZ,New Zealand,Manawatu-Wanganui
+NZLr109,NZL,NZ,New Zealand,Wellington
+NZLr110,NZL,NZ,New Zealand,Tasman / Nelson(2)
+NZLr111,NZL,NZ,New Zealand,Marlborough
+NZLr112,NZL,NZ,New Zealand,West Coast
+NZLr113,NZL,NZ,New Zealand,Canterbury
+NZLr114,NZL,NZ,New Zealand,Otago
+NZLr115,NZL,NZ,New Zealand,Southland
+OMNt,OMN,OM,Oman,Total
+PAKr101,PAK,PK,Pakistan,Punjab (incl Islamabad)
+PAKr102,PAK,PK,Pakistan,Sindh
+PAKr103,PAK,PK,Pakistan,Khyber Pakhtunkhwa (NWFrontier)
+PAKr104,PAK,PK,Pakistan,Balochistan
+PAKr105,PAK,PK,Pakistan,Gilgit Baltistan
+PANr101,PAN,PA,Panama,Bocas del Toro
+PANr102,PAN,PA,Panama,Cocle
+PANr103,PAN,PA,Panama,Colon
+PANr104,PAN,PA,Panama,Chiriqui
+PANr105,PAN,PA,Panama,Darien
+PANr106,PAN,PA,Panama,Herrera
+PANr107,PAN,PA,Panama,Los Santos
+PANr108,PAN,PA,Panama,Panama
+PANr109,PAN,PA,Panama,Veraguas
+PANr110,PAN,PA,Panama,Kuna Yala
+PANr111,PAN,PA,Panama,Embera Wounaan
+PANr112,PAN,PA,Panama,Ngobe Bugle
+PERr101,PER,PE,Peru,"North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)"
+PERr102,PER,PE,Peru,"North East (Amazonas, Loreto, San Martin, Ucayali)"
+PERr103,PER,PE,Peru,"East (Madre de Dios, Cusco, Puno, Apurimac)"
+PERr104,PER,PE,Peru,"South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)"
+PERr105,PER,PE,Peru,"West (Ancash, Lima, Callao)"
+PERr106,PER,PE,Peru,"Central (Huancavelica, Huanuco, Junin, Pasco)"
+PHLr102,PHL,PH,Philippines,Cordillera Admin Region
+PHLr103,PHL,PH,Philippines,I-Ilocos
+PHLr104,PHL,PH,Philippines,II-Cagayan Valley
+PHLr105,PHL,PH,Philippines,III-Central Luzon
+PHLr106,PHL,PH,Philippines,IVA-CALABARZON
+PHLr107,PHL,PH,Philippines,IVB-MIMAROPA
+PHLr108,PHL,PH,Philippines,V-Bicol
+PHLr109,PHL,PH,Philippines,VI-Western Visayas
+PHLr110,PHL,PH,Philippines,VII-Central Visayas
+PHLr111,PHL,PH,Philippines,VIII-Eastern Visayas
+PHLr112,PHL,PH,Philippines,IX-Zamboanga Peninsula
+PHLr113,PHL,PH,Philippines,X-Northern Mindanao
+PHLr114,PHL,PH,Philippines,XI-Davao
+PHLr115,PHL,PH,Philippines,XII-SOCCSKSARGEN
+PHLr116,PHL,PH,Philippines,XIII-Caraga
+PHLr117,PHL,PH,Philippines,ARMM
+PNGt,PNG,PG,Papua New Guinea,Total
+POLr101,POL,PL,Poland,Lodzkie
+POLr102,POL,PL,Poland,Mazowieckie
+POLr103,POL,PL,Poland,Malopolskie
+POLr104,POL,PL,Poland,Slaskie
+POLr105,POL,PL,Poland,Lubelskie
+POLr106,POL,PL,Poland,Podkarpackie
+POLr107,POL,PL,Poland,Swietokrzyskie
+POLr108,POL,PL,Poland,Podlaskie
+POLr109,POL,PL,Poland,Wielkopolskie
+POLr110,POL,PL,Poland,Zachodniopomorskie
+POLr111,POL,PL,Poland,Lubuskie
+POLr112,POL,PL,Poland,Dolnoslaskie
+POLr113,POL,PL,Poland,Opolskie
+POLr114,POL,PL,Poland,Kujawsko-Pomorskie
+POLr115,POL,PL,Poland,Warminsko-Mazurskie
+POLr116,POL,PL,Poland,Pomorskie
+PRTr101,PRT,PT,Portugal,Norte
+PRTr102,PRT,PT,Portugal,Algarve
+PRTr103,PRT,PT,Portugal,Centro
+PRTr104,PRT,PT,Portugal,Area Metropolitana de Lisboa
+PRTr105,PRT,PT,Portugal,Alentejo
+PRTr106,PRT,PT,Portugal,Regiao Autonoma dos Acores
+PRYr101,PRY,PY,Paraguay,"North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)"
+PRYr102,PRY,PY,Paraguay,"North-East (Caaguazu, Alto Parana, Canideyu)"
+PRYr103,PRY,PY,Paraguay,"South-West (Caazapa, Itapua)"
+PRYr104,PRY,PY,Paraguay,"South-East (Guaira, Misiones, Paraguari, Neembucu)"
+PRYr105,PRY,PY,Paraguay,"Central (Asuncion, Central)"
+ROUr101,ROU,RO,Romania,Nord-Est
+ROUr102,ROU,RO,Romania,Sud-Est
+ROUr103,ROU,RO,Romania,Sud
+ROUr104,ROU,RO,Romania,Sud-Vest Oltenia
+ROUr105,ROU,RO,Romania,Vest
+ROUr106,ROU,RO,Romania,Nord-Vest
+ROUr107,ROU,RO,Romania,Centru
+ROUr108,ROU,RO,Romania,Bucuresti
+RUSr101,RUS,RU,Russian Federation,The Central Federal District
+RUSr102,RUS,RU,Russian Federation,The North West Federal District
+RUSr103,RUS,RU,Russian Federation,The South Federal District
+RUSr104,RUS,RU,Russian Federation,The North-Caucasian Federal District
+RUSr105,RUS,RU,Russian Federation,The Privolzhsky (Volga) Federal District
+RUSr106,RUS,RU,Russian Federation,The Urals  Federal District
+RUSr107,RUS,RU,Russian Federation,The Siberian  Federal District
+RUSr108,RUS,RU,Russian Federation,The Far East  Federal District
+RWAr101,RWA,RW,Rwanda,City of Kigali
+RWAr102,RWA,RW,Rwanda,South
+RWAr103,RWA,RW,Rwanda,West
+RWAr104,RWA,RW,Rwanda,North
+RWAr105,RWA,RW,Rwanda,East
+SDNr101,SDN,SD,Sudan,Northern
+SDNr102,SDN,SD,Sudan,Nahr El Nil
+SDNr103,SDN,SD,Sudan,Red Sea
+SDNr104,SDN,SD,Sudan,Kassala
+SDNr105,SDN,SD,Sudan,Al Gedarif
+SDNr106,SDN,SD,Sudan,Khartoum
+SDNr107,SDN,SD,Sudan,Al Gezira
+SDNr108,SDN,SD,Sudan,White Nile
+SDNr109,SDN,SD,Sudan,Sinnar
+SDNr110,SDN,SD,Sudan,Blue Nile
+SDNr111,SDN,SD,Sudan,North Kordofan
+SDNr112,SDN,SD,Sudan,South Kordofan
+SDNr113,SDN,SD,Sudan,North Darfur
+SDNr114,SDN,SD,Sudan,West Darfur
+SDNr115,SDN,SD,Sudan,South Darfur
+SENr101,SEN,SN,Senegal,Dakar
+SENr102,SEN,SN,Senegal,Ziguinchor
+SENr103,SEN,SN,Senegal,Diourbel
+SENr104,SEN,SN,Senegal,Saint Louis
+SENr105,SEN,SN,Senegal,Tambacounda
+SENr106,SEN,SN,Senegal,Kaolack
+SENr107,SEN,SN,Senegal,Thies
+SENr108,SEN,SN,Senegal,Louga
+SENr109,SEN,SN,Senegal,Fatick
+SENr110,SEN,SN,Senegal,Kolda
+SLVr101,SLV,SV,El Salvador,Occidental
+SLVr102,SLV,SV,El Salvador,Central I
+SLVr103,SLV,SV,El Salvador,Central II
+SLVr104,SLV,SV,El Salvador,Oriental
+SOMr101,SOM,SO,Somalia,W Galbeed
+SOMr102,SOM,SO,Somalia,Awdal
+SOMr103,SOM,SO,Somalia,Sanaag
+SOMr104,SOM,SO,Somalia,Sool
+SOMr105,SOM,SO,Somalia,Togdhere
+SOMr106,SOM,SO,Somalia,Mudug
+SOMr107,SOM,SO,Somalia,Nugal
+SOMr108,SOM,SO,Somalia,Bari
+SOMr109,SOM,SO,Somalia,Bakool
+SOMr110,SOM,SO,Somalia,Bay
+SRBr101,SRB,RS,Serbia,Belgrade
+SRBr102,SRB,RS,Serbia,Vojvodina
+SRBr103,SRB,RS,Serbia,Sumadija and West Serbia
+SRBr104,SRB,RS,Serbia,South and East Serbia
+SSDr101,SSD,SS,South Sudan,Upper Nile
+SSDr102,SSD,SS,South Sudan,Jonglei
+SSDr103,SSD,SS,South Sudan,Unity
+SSDr104,SSD,SS,South Sudan,Warrap
+SSDr105,SSD,SS,South Sudan,Northern Bahr El Ghazal
+SSDr106,SSD,SS,South Sudan,Western Bahr El Ghazal
+SSDr107,SSD,SS,South Sudan,Lakes
+SSDr108,SSD,SS,South Sudan,Western Equatoria
+SSDr109,SSD,SS,South Sudan,Central Equatoria
+SSDr110,SSD,SS,South Sudan,Eastern Equatoria
+SURr101,SUR,SR,Suriname,Paramaribo
+SURr102,SUR,SR,Suriname,Wanica and Para
+SURr103,SUR,SR,Suriname,"Nickerie, Coronie and Saramacca"
+SURr104,SUR,SR,Suriname,Commewijne and Marowijne
+SURr105,SUR,SR,Suriname,Brokopondo and Sipaliwini
+SVKr101,SVK,SK,Slovakia,Bratislavsky kraj
+SVKr102,SVK,SK,Slovakia,Zapadne Slovensko
+SVKr103,SVK,SK,Slovakia,Stredne Slovensko
+SVKr104,SVK,SK,Slovakia,Vychodne Slovensko
+SVNr101,SVN,SI,Slovenia,Pomurska
+SVNr102,SVN,SI,Slovenia,Podravska
+SVNr103,SVN,SI,Slovenia,Koroska
+SVNr104,SVN,SI,Slovenia,Savinjska
+SVNr105,SVN,SI,Slovenia,Zasavska
+SVNr106,SVN,SI,Slovenia,Posavska
+SVNr107,SVN,SI,Slovenia,Jugovzhodna Slovenija
+SVNr108,SVN,SI,Slovenia,Primorsko-notranjska
+SVNr109,SVN,SI,Slovenia,Osrednjeslovenska
+SVNr110,SVN,SI,Slovenia,Gorenjska
+SVNr111,SVN,SI,Slovenia,Goriska
+SVNr112,SVN,SI,Slovenia,Obalno-kraska
+SWEr101,SWE,SE,Sweden,Stockholm
+SWEr102,SWE,SE,Sweden,Ostra Mellansverige
+SWEr103,SWE,SE,Sweden,Smaland med oarna
+SWEr104,SWE,SE,Sweden,Sydsverige
+SWEr105,SWE,SE,Sweden,Vastsverige
+SWEr106,SWE,SE,Sweden,Norra Mellansverige
+SWEr107,SWE,SE,Sweden,Mellersta Norrland
+SWEr108,SWE,SE,Sweden,Ovre Norrland
+SWZr101,SWZ,SZ,Swaziland,Hhohho
+SWZr102,SWZ,SZ,Swaziland,Manzini
+SWZr103,SWZ,SZ,Swaziland,Shiselweni
+SWZr104,SWZ,SZ,Swaziland,Lubombo
+SYRr101,SYR,SY,Syria,Damascus
+SYRr102,SYR,SY,Syria,Rural Damascus
+SYRr103,SYR,SY,Syria,Homs
+SYRr104,SYR,SY,Syria,Hamaa
+SYRr105,SYR,SY,Syria,Tartous
+SYRr106,SYR,SY,Syria,Al Latakia
+SYRr107,SYR,SY,Syria,Edlab Idleb
+SYRr108,SYR,SY,Syria,Halab - Aleppo
+SYRr109,SYR,SY,Syria,Al Raka-Raqqa
+SYRr110,SYR,SY,Syria,Der El Zour - Deir Ezzor
+SYRr111,SYR,SY,Syria,Al Hasaka
+SYRr112,SYR,SY,Syria,Al Swida - Sweida
+SYRr113,SYR,SY,Syria,Daraa
+SYRr114,SYR,SY,Syria,Al Qunitara - Quneitra
+TCDr101,TCD,TD,Chad,Zone 1 (N'Djamena)
+TCDr102,TCD,TD,Chad,"Zone 2 (BET (Borkou, Ennedi, Tibesti), Kanem (incl Barh El Gazal), Lac)"
+TCDr103,TCD,TD,Chad,"Zone 3 (Guera, Batha Est & Ouest, Salamat)"
+TCDr104,TCD,TD,Chad,"Zone 4 (Ouaddai (incl Assongha, Sili), Biltine (new name Wad Fira))"
+TCDr105,TCD,TD,Chad,"Zone 5 (Chari-Baguirmi (Dababa, Baguirmi, Hadjer Lamis))"
+TCDr106,TCD,TD,Chad,"Zone 6 (Mayo-Kebbi (Kabia, Mayo Boneye & Mayo Dala))"
+TCDr107,TCD,TD,Chad,"Zone 7 (Logone Occidental, Logone Oriental (incl Monts de Lam), Tandjile Est & Ouest)"
+TCDr108,TCD,TD,Chad,"Zone 8 (Moyen-Chari (Barh Koh, Mandoul, Lac Iro))"
+TGOr102,TGO,TG,Togo,Maritime
+TGOr103,TGO,TG,Togo,Plateaux
+TGOr104,TGO,TG,Togo,Centrale
+TGOr105,TGO,TG,Togo,Kara
+TGOr106,TGO,TG,Togo,Savanes
+THAr101,THA,TH,Thailand,"Central, incl Bangkok"
+THAr102,THA,TH,Thailand,North
+THAr103,THA,TH,Thailand,Northeast
+THAr104,THA,TH,Thailand,South
+TJKr101,TJK,TJ,Tajikistan,Duchanbe
+TJKr102,TJK,TJ,Tajikistan,Khatlon
+TJKr103,TJK,TJ,Tajikistan,Sughd (formerly Leninabad)
+TJKr104,TJK,TJ,Tajikistan,DRS
+TJKr105,TJK,TJ,Tajikistan,GBAO
+TKMr101,TKM,TM,Turkmenistan,Ashgabat City
+TKMr102,TKM,TM,Turkmenistan,Akhal
+TKMr103,TKM,TM,Turkmenistan,Balkan
+TKMr104,TKM,TM,Turkmenistan,Dashoguz
+TKMr105,TKM,TM,Turkmenistan,Lebap
+TKMr106,TKM,TM,Turkmenistan,Mary
+TLSr101,TLS,TL,Timor Leste,Aileu
+TLSr102,TLS,TL,Timor Leste,Ainaro
+TLSr103,TLS,TL,Timor Leste,Baucau
+TLSr104,TLS,TL,Timor Leste,Bobonaro
+TLSr105,TLS,TL,Timor Leste,Cova Lima
+TLSr106,TLS,TL,Timor Leste,Dili
+TLSr107,TLS,TL,Timor Leste,Ermera
+TLSr108,TLS,TL,Timor Leste,Liquica
+TLSr109,TLS,TL,Timor Leste,Lautem
+TLSr110,TLS,TL,Timor Leste,Manufahi
+TLSr111,TLS,TL,Timor Leste,Manatuto
+TLSr112,TLS,TL,Timor Leste,Oecussi
+TLSr113,TLS,TL,Timor Leste,Viqueque
+TTOr101,TTO,TT,Trinidad & Tobago,North West
+TTOr102,TTO,TT,Trinidad & Tobago,East
+TTOr103,TTO,TT,Trinidad & Tobago,Central
+TTOr104,TTO,TT,Trinidad & Tobago,South West
+TUNr101,TUN,TN,Tunisia,"Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)"
+TUNr102,TUN,TN,Tunisia,"Nord Est (Nabeul, Zaghouan, Bizerte)"
+TUNr103,TUN,TN,Tunisia,"Nord Ouest (Beja, Jendouba, Kef, Siliana)"
+TUNr104,TUN,TN,Tunisia,"Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)"
+TUNr105,TUN,TN,Tunisia,"Centre Est (Sousse, Monastir, Mahdia, Sfax)"
+TUNr106,TUN,TN,Tunisia,"Sud Ouest (Gafsa, Tozeur, Kebili)"
+TUNr107,TUN,TN,Tunisia,"Sud Est (Gabes, Medinine, Tataouine)"
+TURr101,TUR,TR,Turkey,Istanbul
+TURr102,TUR,TR,Turkey,"West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)"
+TURr103,TUR,TR,Turkey,"Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)"
+TURr104,TUR,TR,Turkey,"East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)"
+TURr105,TUR,TR,Turkey,"West Anatolia (Ankara, Konya, Karaman)"
+TURr106,TUR,TR,Turkey,"Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)"
+TURr107,TUR,TR,Turkey,"Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)"
+TURr108,TUR,TR,Turkey,"West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)"
+TURr109,TUR,TR,Turkey,"East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)"
+TURr110,TUR,TR,Turkey,"North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)"
+TURr111,TUR,TR,Turkey,"Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)"
+TURr112,TUR,TR,Turkey,"South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili"
+TWNt,TWN,TW,Taiwan,Total
+TZAr101,TZA,TZ,Tanzania,"Western (Tabora, Kigoma, Shinyanga)"
+TZAr102,TZA,TZ,Tanzania,"Northern (Arusha, Kilimanjaro, Tanga, Manyara)"
+TZAr103,TZA,TZ,Tanzania,"Central (Dodoma, Singida)"
+TZAr104,TZA,TZ,Tanzania,"Southern Highlands (Iringa, Mbeya, Rukwa)"
+TZAr105,TZA,TZ,Tanzania,"Lake (Kagera, Mwanza, Mara)"
+TZAr106,TZA,TZ,Tanzania,"Eastern (Morogoro, Pwani, Dar Es Salam)"
+TZAr107,TZA,TZ,Tanzania,"Southern (Lindi, Mtwara, Ruvuma)"
+TZAr108,TZA,TZ,Tanzania,"Zanzibar (Zanzibar North, Zanziba South, Town West, Pemba North, Pemba South)"
+UGAr101,UGA,UG,Uganda,"Central (Central 1, Central 2, Kampala)"
+UGAr102,UGA,UG,Uganda,"Eastern (Eastern, East Central)"
+UGAr103,UGA,UG,Uganda,"Northern (North, Karamoja, West Nile)"
+UGAr104,UGA,UG,Uganda,"Western (Western, Southwest)"
+UKRr101,UKR,UA,Ukraine,North
+UKRr102,UKR,UA,Ukraine,Central
+UKRr103,UKR,UA,Ukraine,East
+UKRr104,UKR,UA,Ukraine,South
+UKRr105,UKR,UA,Ukraine,West
+URYr101,URY,UY,Uruguay,Montevideo and Metropolitan area
+URYr102,URY,UY,Uruguay,"Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)"
+URYr103,URY,UY,Uruguay,"Costa Este (Canelones, Maldonado and Rocha)"
+URYr104,URY,UY,Uruguay,"Litoral Sur (Soriano, Colonia and San Jose)"
+URYr105,URY,UY,Uruguay,Centro (Durazno and Tacuarembo)
+URYr106,URY,UY,Uruguay,"Centro Sur (Flores, Florida and Lavalleja)"
+URYr107,URY,UY,Uruguay,"Litoral Norte (Paysandu, Salto and R?o Negro)"
+USAr101,USA,US,United States,Alabama
+USAr102,USA,US,United States,Alaska
+USAr103,USA,US,United States,Arizona
+USAr104,USA,US,United States,Arkansas
+USAr105,USA,US,United States,California
+USAr106,USA,US,United States,Colorado
+USAr107,USA,US,United States,Connecticut
+USAr108,USA,US,United States,Delaware
+USAr109,USA,US,United States,District of Columbia
+USAr110,USA,US,United States,Florida
+USAr111,USA,US,United States,Georgia
+USAr112,USA,US,United States,Hawaii
+USAr113,USA,US,United States,Idaho
+USAr114,USA,US,United States,Illinois
+USAr115,USA,US,United States,Indiana
+USAr116,USA,US,United States,Iowa
+USAr117,USA,US,United States,Kansas
+USAr118,USA,US,United States,Kentucky
+USAr119,USA,US,United States,Louisiana
+USAr120,USA,US,United States,Maine
+USAr121,USA,US,United States,Maryland
+USAr122,USA,US,United States,Massachusetts
+USAr123,USA,US,United States,Michigan
+USAr124,USA,US,United States,Minnesota
+USAr125,USA,US,United States,Mississippi
+USAr126,USA,US,United States,Missouri
+USAr127,USA,US,United States,Montana
+USAr128,USA,US,United States,Nebraska
+USAr129,USA,US,United States,Nevada
+USAr130,USA,US,United States,New Hampshire
+USAr131,USA,US,United States,New Jersey
+USAr132,USA,US,United States,New Mexico
+USAr133,USA,US,United States,New York
+USAr134,USA,US,United States,North Carolina
+USAr135,USA,US,United States,North Dakota
+USAr136,USA,US,United States,Ohio
+USAr137,USA,US,United States,Oklahoma
+USAr138,USA,US,United States,Oregon
+USAr139,USA,US,United States,Pennsylvania
+USAr140,USA,US,United States,Rhode Island
+USAr141,USA,US,United States,South Carolina
+USAr142,USA,US,United States,South Dakota
+USAr143,USA,US,United States,Tennessee
+USAr144,USA,US,United States,Texas
+USAr145,USA,US,United States,Utah
+USAr146,USA,US,United States,Vermont
+USAr147,USA,US,United States,Virginia
+USAr148,USA,US,United States,Washington
+USAr149,USA,US,United States,West Virginia
+USAr150,USA,US,United States,Wisconsin
+USAr151,USA,US,United States,Wyoming
+UZBr101,UZB,UZ,Uzbekistan,Western
+UZBr102,UZB,UZ,Uzbekistan,Central
+UZBr103,UZB,UZ,Uzbekistan,Southern
+UZBr104,UZB,UZ,Uzbekistan,Central East
+UZBr105,UZB,UZ,Uzbekistan,East
+UZBr106,UZB,UZ,Uzbekistan,Tashkent
+VENr101,VEN,VE,Venezuela,Federal District
+VENr102,VEN,VE,Venezuela,Amazonas Federal Territory
+VENr103,VEN,VE,Venezuela,Anzoategui
+VENr104,VEN,VE,Venezuela,Apure
+VENr105,VEN,VE,Venezuela,Aragua
+VENr106,VEN,VE,Venezuela,Barinas
+VENr107,VEN,VE,Venezuela,Bolivar
+VENr108,VEN,VE,Venezuela,Carabobo
+VENr109,VEN,VE,Venezuela,Cojedes
+VENr110,VEN,VE,Venezuela,Amacuros Delta Federal Territory
+VENr111,VEN,VE,Venezuela,Falcon
+VENr112,VEN,VE,Venezuela,Guarico
+VENr113,VEN,VE,Venezuela,Lara
+VENr114,VEN,VE,Venezuela,Merida
+VENr115,VEN,VE,Venezuela,Miranda
+VENr116,VEN,VE,Venezuela,Monagas
+VENr117,VEN,VE,Venezuela,Nueva Esparta
+VENr118,VEN,VE,Venezuela,Portuguesa
+VENr119,VEN,VE,Venezuela,Sucre
+VENr120,VEN,VE,Venezuela,Tachira
+VENr121,VEN,VE,Venezuela,Trujillo
+VENr122,VEN,VE,Venezuela,Yaracuy
+VENr123,VEN,VE,Venezuela,Zulia
+VENr124,VEN,VE,Venezuela,Vargas
+VNMr101,VNM,VN,Vietnam,Red River Delta
+VNMr102,VNM,VN,Vietnam,"North East, North West"
+VNMr103,VNM,VN,Vietnam,North Central Coast and South Central Coast
+VNMr104,VNM,VN,Vietnam,Central Highlands
+VNMr105,VNM,VN,Vietnam,South East
+VNMr106,VNM,VN,Vietnam,Mekong River Delta
+VUTr101,VUT,VU,Vanuatu,Tafea
+VUTr102,VUT,VU,Vanuatu,Shefa
+VUTr103,VUT,VU,Vanuatu,Malampa
+VUTr104,VUT,VU,Vanuatu,Penama
+VUTr105,VUT,VU,Vanuatu,Sanma
+VUTr106,VUT,VU,Vanuatu,Torba
+YEMr101,YEM,YE,Yemen,Ibb
+YEMr102,YEM,YE,Yemen,"Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)"
+YEMr103,YEM,YE,Yemen,"""Sana a (capital"
+YEMr104,YEM,YE,Yemen,"Beida (Al Bayda), Dhamar, Raimah"
+YEMr105,YEM,YE,Yemen,Taiz
+YEMr106,YEM,YE,Yemen,"Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)"
+YEMr107,YEM,YE,Yemen,"Hajja, Sada, Amran (Omran)"
+YEMr108,YEM,YE,Yemen,"Hodeida (Al Hudaydah), Mahweit (Al Mahwit)"
+ZAFr101,ZAF,ZA,South Africa,Western Cape
+ZAFr102,ZAF,ZA,South Africa,Eastern Cape
+ZAFr103,ZAF,ZA,South Africa,Northern Cape
+ZAFr104,ZAF,ZA,South Africa,Free State
+ZAFr105,ZAF,ZA,South Africa,KwaZulu Natal
+ZAFr106,ZAF,ZA,South Africa,North West
+ZAFr107,ZAF,ZA,South Africa,Gauteng
+ZAFr108,ZAF,ZA,South Africa,Mpumalanga
+ZAFr109,ZAF,ZA,South Africa,Northern Province
+ZMBr101,ZMB,ZM,Zambia,Central
+ZMBr102,ZMB,ZM,Zambia,Copperbelt
+ZMBr103,ZMB,ZM,Zambia,Eastern
+ZMBr104,ZMB,ZM,Zambia,Luapula
+ZMBr105,ZMB,ZM,Zambia,Lusaka
+ZMBr106,ZMB,ZM,Zambia,Northern
+ZMBr107,ZMB,ZM,Zambia,North-Western
+ZMBr108,ZMB,ZM,Zambia,Southern
+ZMBr109,ZMB,ZM,Zambia,Western
+ZWEr101,ZWE,ZW,Zimbabwe,Manicaland
+ZWEr102,ZWE,ZW,Zimbabwe,Mashonaland Central
+ZWEr103,ZWE,ZW,Zimbabwe,Mashonaland East
+ZWEr104,ZWE,ZW,Zimbabwe,Mashonaland West
+ZWEr105,ZWE,ZW,Zimbabwe,Matebeleland North
+ZWEr106,ZWE,ZW,Zimbabwe,Matebeleland South
+ZWEr107,ZWE,ZW,Zimbabwe,Midlands
+ZWEr108,ZWE,ZW,Zimbabwe,Masvingo
+ZWEr109,ZWE,ZW,Zimbabwe,Harare
+ZWEr110,ZWE,ZW,Zimbabwe,Bulawayo
+AZEr101,AZE,AZ,Azerbaijan,Baku
+AZEr102,AZE,AZ,Azerbaijan,Absheron
+AZEr103,AZE,AZ,Azerbaijan,Ganja Gazakh
+AZEr104,AZE,AZ,Azerbaijan,Shaki Zaqatala
+AZEr105,AZE,AZ,Azerbaijan,Lankaran
+AZEr106,AZE,AZ,Azerbaijan,Guba Khachmaz
+AZEr107,AZE,AZ,Azerbaijan,Aran
+AZEr108,AZE,AZ,Azerbaijan,Yukhari Karabakh
+AZEr109,AZE,AZ,Azerbaijan,Dakhlik Shirvan
+BELr101,BEL,BE,Belgium,Bruxelles - Brussel
+BELr102,BEL,BE,Belgium,Prov. Antwerpen
+BELr103,BEL,BE,Belgium,Prov. Limburg
+BELr104,BEL,BE,Belgium,Prov. Oost-Vlaanderen
+BELr105,BEL,BE,Belgium,Prov. Vlaams-Brabant
+BELr106,BEL,BE,Belgium,Prov. West-Vlaanderen
+BELr107,BEL,BE,Belgium,Prov. Brabant Wallon
+BELr108,BEL,BE,Belgium,Prov. Hainaut
+BELr109,BEL,BE,Belgium,Prov. Liege
+BELr110,BEL,BE,Belgium,Prov. Luxembourg
+BELr111,BEL,BE,Belgium,Prov. Namur
+BFAr101,BFA,BF,Burkina Faso,Boucle de Mouhoun
+BFAr102,BFA,BF,Burkina Faso,Cascades
+BFAr103,BFA,BF,Burkina Faso,Centre (incl Ouagadougou)
+BFAr104,BFA,BF,Burkina Faso,Centre-Est
+BFAr105,BFA,BF,Burkina Faso,Centre-Nord
+BFAr106,BFA,BF,Burkina Faso,Centre-Ouest
+BFAr107,BFA,BF,Burkina Faso,Centre-Sud
+BFAr108,BFA,BF,Burkina Faso,Est
+BFAr109,BFA,BF,Burkina Faso,Hauts Bassins
+BFAr110,BFA,BF,Burkina Faso,Nord
+BFAr111,BFA,BF,Burkina Faso,Plateau Central
+BFAr112,BFA,BF,Burkina Faso,Sahel
+BFAr113,BFA,BF,Burkina Faso,Sud-Ouest
+BIHr102,BIH,BA,Bosnia and Herzegovina,Northern Bosnia
+BIHr103,BIH,BA,Bosnia and Herzegovina,Central Bosnia
+BIHr105,BIH,BA,Bosnia and Herzegovina,Republica Srpska
+CIVr101,CIV,CI,Cote d'Ivoire,Centre
+CIVr102,CIV,CI,Cote d'Ivoire,Centre Est
+CIVr104,CIV,CI,Cote d'Ivoire,Centre Ouest
+CIVr108,CIV,CI,Cote d'Ivoire,Ouest
+CIVr109,CIV,CI,Cote d'Ivoire,"Sud, Abidjan"
+COLr101,COL,CO,Colombia,Antioquia (incl Medellin)
+COLr103,COL,CO,Colombia,Bogota D.C.
+COLr105,COL,CO,Colombia,Boyaca
+COLr112,COL,CO,Colombia,Choco
+COLr120,COL,CO,Colombia,Risaralda
+COLr130,COL,CO,Colombia,Guainja
+COLr133,COL,CO,Colombia,Vichada
+FRAr101,FRA,FR,France,Ile de France
+FRAr102,FRA,FR,France,Champagne-Ardenne
+FRAr103,FRA,FR,France,Picardie
+FRAr104,FRA,FR,France,Haute-Normandie
+FRAr105,FRA,FR,France,Centre
+FRAr106,FRA,FR,France,Basse-Normandie
+FRAr107,FRA,FR,France,Bourgogne
+FRAr108,FRA,FR,France,Nord
+FRAr109,FRA,FR,France,Lorraine
+FRAr110,FRA,FR,France,Alsace
+FRAr111,FRA,FR,France,Franche-Comte
+FRAr112,FRA,FR,France,Pays de la Loire
+FRAr113,FRA,FR,France,Bretagne
+FRAr114,FRA,FR,France,Poitou-Charentes
+FRAr115,FRA,FR,France,Aquitaine
+FRAr116,FRA,FR,France,Midi-Pyrenees
+FRAr117,FRA,FR,France,Limousin
+FRAr118,FRA,FR,France,Rhone-Alpes
+FRAr119,FRA,FR,France,Auvergne
+FRAr120,FRA,FR,France,Languedoc-Roussillon
+FRAr121,FRA,FR,France,Provence-Alpes-Cote dAzur
+FRAr122,FRA,FR,France,Corse
+GBRr101,GBR,UK,United Kingdom,North East
+GBRr102,GBR,UK,United Kingdom,North West
+GBRr103,GBR,UK,United Kingdom,Yorkshire and The Humber
+GBRr104,GBR,UK,United Kingdom,East Midlands
+GBRr105,GBR,UK,United Kingdom,West Midlands
+GBRr106,GBR,UK,United Kingdom,East of England
+GBRr107,GBR,UK,United Kingdom,London
+GBRr108,GBR,UK,United Kingdom,South East
+GBRr109,GBR,UK,United Kingdom,South West
+GBRr110,GBR,UK,United Kingdom,Wales
+GBRr111,GBR,UK,United Kingdom,Scotland
+GBRr112,GBR,UK,United Kingdom,Northern Ireland
+GINr101,GIN,GN,Guinea,Boke
+GINr102,GIN,GN,Guinea,Conakry
+GINr103,GIN,GN,Guinea,Faranah
+GINr104,GIN,GN,Guinea,Kankan
+GINr105,GIN,GN,Guinea,Kindia
+GINr106,GIN,GN,Guinea,Labe
+GINr107,GIN,GN,Guinea,Mamou
+GINr108,GIN,GN,Guinea,N Zerekore
+GMBr101,GMB,GM,Gambia,Banjul
+GMBr102,GMB,GM,Gambia,Kanifing
+GMBr103,GMB,GM,Gambia,Brikama
+GMBr104,GMB,GM,Gambia,Mansakonko
+GMBr105,GMB,GM,Gambia,Kerewan
+GMBr106,GMB,GM,Gambia,Kuntaur
+GMBr107,GMB,GM,Gambia,Janjabureh
+GMBr108,GMB,GM,Gambia,Basse
+ITAr101,ITA,IT,Italy,Piemonte
+ITAr102,ITA,IT,Italy,Valle dAosta
+ITAr103,ITA,IT,Italy,Liguria
+ITAr104,ITA,IT,Italy,Lombardia
+ITAr105,ITA,IT,Italy,Abruzzo
+ITAr106,ITA,IT,Italy,Molise
+ITAr107,ITA,IT,Italy,Campania
+ITAr108,ITA,IT,Italy,Puglia
+ITAr109,ITA,IT,Italy,Basilicata
+ITAr110,ITA,IT,Italy,Calabria
+ITAr111,ITA,IT,Italy,Sicilia
+ITAr112,ITA,IT,Italy,Sardegna
+ITAr113,ITA,IT,Italy,Provincia Autonoma di Bolzano
+ITAr114,ITA,IT,Italy,Provincia Autonoma di Trento
+ITAr115,ITA,IT,Italy,Veneto
+ITAr116,ITA,IT,Italy,Friuli-Venezia Giulia
+ITAr117,ITA,IT,Italy,Emilia-Romagna
+ITAr118,ITA,IT,Italy,Toscana
+ITAr119,ITA,IT,Italy,Umbria
+ITAr120,ITA,IT,Italy,Marche
+ITAr121,ITA,IT,Italy,Lazio
+LVAr101,LVA,LV,Latvia,Riga region
+LVAr102,LVA,LV,Latvia,Pieriga region
+LVAr103,LVA,LV,Latvia,Vidzeme region
+LVAr104,LVA,LV,Latvia,Kurzeme region
+LVAr105,LVA,LV,Latvia,Zemgale region
+LVAr106,LVA,LV,Latvia,Latgale region
+NICr101,NIC,NI,Nicaragua,"Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)"
+NORr103,NOR,NO,Norway,Sor-Ostlandet
+NPLr101,NPL,NP,Nepal,Eastern
+NPLr102,NPL,NP,Nepal,Central
+NPLr103,NPL,NP,Nepal,Western
+NPLr104,NPL,NP,Nepal,Mid-western
+NPLr105,NPL,NP,Nepal,Far-western
+PHLr101,PHL,PH,Philippines,National Capital Region
+PHLr102,PHL,PH,Philippines,Cordillera Admin Region
+PHLr103,PHL,PH,Philippines,I-Ilocos
+PHLr104,PHL,PH,Philippines,II-Cagayan Valley
+PHLr105,PHL,PH,Philippines,III-Central Luzon
+PHLr106,PHL,PH,Philippines,IVA-CALABARZON
+PHLr107,PHL,PH,Philippines,IVB-MIMAROPA
+PHLr108,PHL,PH,Philippines,V-Bicol
+PHLr109,PHL,PH,Philippines,VI-Western Visayas
+PHLr110,PHL,PH,Philippines,VII-Central Visayas
+PHLr111,PHL,PH,Philippines,VIII-Eastern Visayas
+PHLr112,PHL,PH,Philippines,IX-Zamboanga Peninsula
+PHLr113,PHL,PH,Philippines,X-Northern Mindanao
+PHLr114,PHL,PH,Philippines,XI-Davao
+PHLr115,PHL,PH,Philippines,XII-SOCCSKSARGEN
+PHLr116,PHL,PH,Philippines,XIII-Caraga
+PHLr117,PHL,PH,Philippines,ARMM
+PSEr101,PSE,PS,Palestine,"Jenin, Tubas, Tulkarm, Nablus, Qalqiliya"
+PSEr102,PSE,PS,Palestine,"Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar"
+PSEr103,PSE,PS,Palestine,Jerusalem
+PSEr104,PSE,PS,Palestine,"Bethlehem, Hebron"
+PSEr105,PSE,PS,Palestine,"North Gaza, Gaza"
+PSEr106,PSE,PS,Palestine,"Deir El-Balah, Khan Yunis, Rafah"
+SLEr101,SLE,SL,Sierra Leone,Bombali
+SLEr102,SLE,SL,Sierra Leone,Kambia
+SLEr103,SLE,SL,Sierra Leone,Koinadugu
+SLEr104,SLE,SL,Sierra Leone,Port Loko
+SLEr105,SLE,SL,Sierra Leone,Tonkolili
+SLEr106,SLE,SL,Sierra Leone,Kailahun
+SLEr107,SLE,SL,Sierra Leone,Kenema
+SLEr108,SLE,SL,Sierra Leone,Kono
+SLEr109,SLE,SL,Sierra Leone,Bo
+SLEr110,SLE,SL,Sierra Leone,Bonthe
+SLEr111,SLE,SL,Sierra Leone,Moyamba
+SLEr112,SLE,SL,Sierra Leone,Pujehun
+SLEr113,SLE,SL,Sierra Leone,Western Rural
+SLEr114,SLE,SL,Sierra Leone,Western Urban
+STPr101,STP,ST,Sao Tome & Principe,Regiao Centro
+STPr102,STP,ST,Sao Tome & Principe,Regiao Sul
+STPr103,STP,ST,Sao Tome & Principe,Regiao Norte
+STPr104,STP,ST,Sao Tome & Principe,Regiao do Principe
+TGOr101,TGO,TG,Togo,Lome
+TZAr101,TZA,TZ,Tanzania,"Western (Tabora, Kigoma, Shinyanga)"
+TZAr105,TZA,TZ,Tanzania,"Lake (Kagera, Mwanza, Mara)"
+UGAr101,UGA,UG,Uganda,"Central (Central 1, Central 2, Kampala)"
+UGAr102,UGA,UG,Uganda,"Eastern (Eastern, East Central)"
+UGAr103,UGA,UG,Uganda,"Northern (North, Karamoja, West Nile)"
+UGAr104,UGA,UG,Uganda,"Western (Western, Southwest)"
+VUTr107,VUT,VU,Vanuatu,Port Vila
+VUTr108,VUT,VU,Vanuatu,Luganville
+ZWEr109,ZWE,ZW,Zimbabwe,Harare
+CODr107,COD,CD,Congo Democratic Republic,Sud-Kivu
+UGAr101,UGA,UG,Uganda,"Central (Central 1, Central 2, Kampala)"
+UGAr104,UGA,UG,Uganda,"Western (Western, Southwest)"
+AZEr101,AZE,AZ,Azerbaijan,Baku
+AZEr102,AZE,AZ,Azerbaijan,Absheron
+AZEr103,AZE,AZ,Azerbaijan,Ganja Gazakh
+AZEr104,AZE,AZ,Azerbaijan,Shaki Zaqatala
+AZEr105,AZE,AZ,Azerbaijan,Lankaran
+AZEr106,AZE,AZ,Azerbaijan,Guba Khachmaz
+AZEr107,AZE,AZ,Azerbaijan,Aran
+AZEr108,AZE,AZ,Azerbaijan,Yukhari Karabakh
+AZEr109,AZE,AZ,Azerbaijan,Dakhlik Shirvan
+BELr101,BEL,BE,Belgium,Bruxelles - Brussel
+BELr102,BEL,BE,Belgium,Prov. Antwerpen
+BELr103,BEL,BE,Belgium,Prov. Limburg
+BELr104,BEL,BE,Belgium,Prov. Oost-Vlaanderen
+BELr105,BEL,BE,Belgium,Prov. Vlaams-Brabant
+BELr106,BEL,BE,Belgium,Prov. West-Vlaanderen
+BELr107,BEL,BE,Belgium,Prov. Brabant Wallon
+BELr108,BEL,BE,Belgium,Prov. Hainaut
+BELr109,BEL,BE,Belgium,Prov. Liege
+BELr110,BEL,BE,Belgium,Prov. Luxembourg
+BELr111,BEL,BE,Belgium,Prov. Namur
+BFAr101,BFA,BF,Burkina Faso,Boucle de Mouhoun
+BFAr102,BFA,BF,Burkina Faso,Cascades
+BFAr103,BFA,BF,Burkina Faso,Centre (incl Ouagadougou)
+BFAr104,BFA,BF,Burkina Faso,Centre-Est
+BFAr105,BFA,BF,Burkina Faso,Centre-Nord
+BFAr106,BFA,BF,Burkina Faso,Centre-Ouest
+BFAr107,BFA,BF,Burkina Faso,Centre-Sud
+BFAr108,BFA,BF,Burkina Faso,Est
+BFAr109,BFA,BF,Burkina Faso,Hauts Bassins
+BFAr110,BFA,BF,Burkina Faso,Nord
+BFAr111,BFA,BF,Burkina Faso,Plateau Central
+BFAr112,BFA,BF,Burkina Faso,Sahel
+BFAr113,BFA,BF,Burkina Faso,Sud-Ouest
+BIHr102,BIH,BA,Bosnia and Herzegovina,Northern Bosnia
+BIHr103,BIH,BA,Bosnia and Herzegovina,Central Bosnia
+BIHr105,BIH,BA,Bosnia and Herzegovina,Republica Srpska
+CIVr101,CIV,CI,Cote d'Ivoire,Centre
+CIVr102,CIV,CI,Cote d'Ivoire,Centre Est
+CIVr104,CIV,CI,Cote d'Ivoire,Centre Ouest
+CIVr108,CIV,CI,Cote d'Ivoire,Ouest
+CIVr109,CIV,CI,Cote d'Ivoire,"Sud, Abidjan"
+COLr101,COL,CO,Colombia,Antioquia (incl Medellin)
+COLr103,COL,CO,Colombia,Bogota D.C.
+COLr105,COL,CO,Colombia,Boyaca
+COLr112,COL,CO,Colombia,Choco
+COLr120,COL,CO,Colombia,Risaralda
+COLr130,COL,CO,Colombia,Guainja
+COLr133,COL,CO,Colombia,Vichada
+FRAr101,FRA,FR,France,Ile de France
+FRAr102,FRA,FR,France,Champagne-Ardenne
+FRAr103,FRA,FR,France,Picardie
+FRAr104,FRA,FR,France,Haute-Normandie
+FRAr105,FRA,FR,France,Centre
+FRAr106,FRA,FR,France,Basse-Normandie
+FRAr107,FRA,FR,France,Bourgogne
+FRAr108,FRA,FR,France,Nord
+FRAr109,FRA,FR,France,Lorraine
+FRAr110,FRA,FR,France,Alsace
+FRAr111,FRA,FR,France,Franche-Comte
+FRAr112,FRA,FR,France,Pays de la Loire
+FRAr113,FRA,FR,France,Bretagne
+FRAr114,FRA,FR,France,Poitou-Charentes
+FRAr115,FRA,FR,France,Aquitaine
+FRAr116,FRA,FR,France,Midi-Pyrenees
+FRAr117,FRA,FR,France,Limousin
+FRAr118,FRA,FR,France,Rhone-Alpes
+FRAr119,FRA,FR,France,Auvergne
+FRAr120,FRA,FR,France,Languedoc-Roussillon
+FRAr121,FRA,FR,France,Provence-Alpes-Cote dAzur
+FRAr122,FRA,FR,France,Corse
+GBRr101,GBR,UK,United Kingdom,North East
+GBRr102,GBR,UK,United Kingdom,North West
+GBRr103,GBR,UK,United Kingdom,Yorkshire and The Humber
+GBRr104,GBR,UK,United Kingdom,East Midlands
+GBRr105,GBR,UK,United Kingdom,West Midlands
+GBRr106,GBR,UK,United Kingdom,East of England
+GBRr107,GBR,UK,United Kingdom,London
+GBRr108,GBR,UK,United Kingdom,South East
+GBRr109,GBR,UK,United Kingdom,South West
+GBRr110,GBR,UK,United Kingdom,Wales
+GBRr111,GBR,UK,United Kingdom,Scotland
+GBRr112,GBR,UK,United Kingdom,Northern Ireland
+GINr101,GIN,GN,Guinea,Boke
+GINr102,GIN,GN,Guinea,Conakry
+GINr103,GIN,GN,Guinea,Faranah
+GINr104,GIN,GN,Guinea,Kankan
+GINr105,GIN,GN,Guinea,Kindia
+GINr106,GIN,GN,Guinea,Labe
+GINr107,GIN,GN,Guinea,Mamou
+GINr108,GIN,GN,Guinea,N Zerekore
+GMBr101,GMB,GM,Gambia,Banjul
+GMBr102,GMB,GM,Gambia,Kanifing
+GMBr103,GMB,GM,Gambia,Brikama
+GMBr104,GMB,GM,Gambia,Mansakonko
+GMBr105,GMB,GM,Gambia,Kerewan
+GMBr106,GMB,GM,Gambia,Kuntaur
+GMBr107,GMB,GM,Gambia,Janjabureh
+GMBr108,GMB,GM,Gambia,Basse
+ITAr101,ITA,IT,Italy,Piemonte
+ITAr102,ITA,IT,Italy,Valle dAosta
+ITAr103,ITA,IT,Italy,Liguria
+ITAr104,ITA,IT,Italy,Lombardia
+ITAr105,ITA,IT,Italy,Abruzzo
+ITAr106,ITA,IT,Italy,Molise
+ITAr107,ITA,IT,Italy,Campania
+ITAr108,ITA,IT,Italy,Puglia
+ITAr109,ITA,IT,Italy,Basilicata
+ITAr110,ITA,IT,Italy,Calabria
+ITAr111,ITA,IT,Italy,Sicilia
+ITAr112,ITA,IT,Italy,Sardegna
+ITAr113,ITA,IT,Italy,Provincia Autonoma di Bolzano
+ITAr114,ITA,IT,Italy,Provincia Autonoma di Trento
+ITAr115,ITA,IT,Italy,Veneto
+ITAr116,ITA,IT,Italy,Friuli-Venezia Giulia
+ITAr117,ITA,IT,Italy,Emilia-Romagna
+ITAr118,ITA,IT,Italy,Toscana
+ITAr119,ITA,IT,Italy,Umbria
+ITAr120,ITA,IT,Italy,Marche
+ITAr121,ITA,IT,Italy,Lazio
+LVAr101,LVA,LV,Latvia,Riga region
+LVAr102,LVA,LV,Latvia,Pieriga region
+LVAr103,LVA,LV,Latvia,Vidzeme region
+LVAr104,LVA,LV,Latvia,Kurzeme region
+LVAr105,LVA,LV,Latvia,Zemgale region
+LVAr106,LVA,LV,Latvia,Latgale region
+NICr101,NIC,NI,Nicaragua,"Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)"
+NORr103,NOR,NO,Norway,Sor-Ostlandet
+NPLr101,NPL,NP,Nepal,Eastern
+NPLr102,NPL,NP,Nepal,Central
+NPLr103,NPL,NP,Nepal,Western
+NPLr104,NPL,NP,Nepal,Mid-western
+NPLr105,NPL,NP,Nepal,Far-western
+PHLr101,PHL,PH,Philippines,National Capital Region
+PHLr102,PHL,PH,Philippines,Cordillera Admin Region
+PHLr103,PHL,PH,Philippines,I-Ilocos
+PHLr104,PHL,PH,Philippines,II-Cagayan Valley
+PHLr105,PHL,PH,Philippines,III-Central Luzon
+PHLr106,PHL,PH,Philippines,IVA-CALABARZON
+PHLr107,PHL,PH,Philippines,IVB-MIMAROPA
+PHLr108,PHL,PH,Philippines,V-Bicol
+PHLr109,PHL,PH,Philippines,VI-Western Visayas
+PHLr110,PHL,PH,Philippines,VII-Central Visayas
+PHLr111,PHL,PH,Philippines,VIII-Eastern Visayas
+PHLr112,PHL,PH,Philippines,IX-Zamboanga Peninsula
+PHLr113,PHL,PH,Philippines,X-Northern Mindanao
+PHLr114,PHL,PH,Philippines,XI-Davao
+PHLr115,PHL,PH,Philippines,XII-SOCCSKSARGEN
+PHLr116,PHL,PH,Philippines,XIII-Caraga
+PHLr117,PHL,PH,Philippines,ARMM
+PSEr101,PSE,PS,Palestine,"Jenin, Tubas, Tulkarm, Nablus, Qalqiliya"
+PSEr102,PSE,PS,Palestine,"Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar"
+PSEr103,PSE,PS,Palestine,Jerusalem
+PSEr104,PSE,PS,Palestine,"Bethlehem, Hebron"
+PSEr105,PSE,PS,Palestine,"North Gaza, Gaza"
+PSEr106,PSE,PS,Palestine,"Deir El-Balah, Khan Yunis, Rafah"
+SLEr101,SLE,SL,Sierra Leone,Bombali
+SLEr102,SLE,SL,Sierra Leone,Kambia
+SLEr103,SLE,SL,Sierra Leone,Koinadugu
+SLEr104,SLE,SL,Sierra Leone,Port Loko
+SLEr105,SLE,SL,Sierra Leone,Tonkolili
+SLEr106,SLE,SL,Sierra Leone,Kailahun
+SLEr107,SLE,SL,Sierra Leone,Kenema
+SLEr108,SLE,SL,Sierra Leone,Kono
+SLEr109,SLE,SL,Sierra Leone,Bo
+SLEr110,SLE,SL,Sierra Leone,Bonthe
+SLEr111,SLE,SL,Sierra Leone,Moyamba
+SLEr112,SLE,SL,Sierra Leone,Pujehun
+SLEr113,SLE,SL,Sierra Leone,Western Rural
+SLEr114,SLE,SL,Sierra Leone,Western Urban
+STPr101,STP,ST,Sao Tome & Principe,Regiao Centro
+STPr102,STP,ST,Sao Tome & Principe,Regiao Sul
+STPr103,STP,ST,Sao Tome & Principe,Regiao Norte
+STPr104,STP,ST,Sao Tome & Principe,Regiao do Principe
+TGOr101,TGO,TG,Togo,Lome
+TZAr101,TZA,TZ,Tanzania,"Western (Tabora, Kigoma, Shinyanga)"
+TZAr105,TZA,TZ,Tanzania,"Lake (Kagera, Mwanza, Mara)"
+UGAr101,UGA,UG,Uganda,"Central (Central 1, Central 2, Kampala)"
+UGAr102,UGA,UG,Uganda,"Eastern (Eastern, East Central)"
+UGAr103,UGA,UG,Uganda,"Northern (North, Karamoja, West Nile)"
+UGAr104,UGA,UG,Uganda,"Western (Western, Southwest)"
+VUTr107,VUT,VU,Vanuatu,Port Vila
+VUTr108,VUT,VU,Vanuatu,Luganville
+ZWEr109,ZWE,ZW,Zimbabwe,Harare
+,,,,
+LBNr101,LBN,LB,Lebanon,Beirut
+LBNr102,LBN,LB,Lebanon,Mount Lebanon
+LBNr103,LBN,LB,Lebanon,Northern
+LBNr104,LBN,LB,Lebanon,Beqaa
+LBNr105,LBN,LB,Lebanon,"Southern, Nabtieh"
+SAUr101,SAU,SA,Saudi-Arabia,"Center (Riadh, Qassim)"
+SAUr102,SAU,SA,Saudi-Arabia,"West (Makka, Madinah, Tabuk)"
+SAUr103,SAU,SA,Saudi-Arabia,"South (Bahah, Jizan, Asir, Najran)"
+SAUr104,SAU,SA,Saudi-Arabia,Eastern province
+SAUr105,SAU,SA,Saudi-Arabia,"North (Northern Borders, Al Jawf, Hail)"
+,,,,
+#N/A,,,,
