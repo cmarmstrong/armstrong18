@@ -1,3 +1,4 @@
+library(countrycode)
 library(gdalUtils)
 library(raccess)
 library(raster)
@@ -20,13 +21,14 @@ nlPeriod <- '2015' # Rnightlights::nlRange('201301', '201312')
 nlType <- 'VIIRS.Y' # 'VIIRS.M'
 nlStats <- list('mean', na.rm=TRUE)
 
-nlTile <- Rnightlights:::getNlTileTifLclNamePathVIIRS(nlPeriod, iTile, nlType)
-if(!file.exists(nlTile)) {
+## nlTile <- Rnightlights:::getNlTileTifLclNamePathVIIRS(nlPeriod, iTile, nlType)
+## if(!file.exists(nlTile)) {
     ## sapply(nlPeriod, function(nlPeriod, ctryCodes, nlType) {
-    tileList <- Rnightlights:::getCtryTileList(ctryCodes=ctryCodes, nlType=nlType)
+    ## tileList <- Rnightlights:::getCtryTileList(ctryCodes=ctryCodes, nlType=nlType)
+    tileList <- Rnightlights:::getNlTiles(nlType='VIIRS.Y') $name
     Rnightlights:::downloadNlTiles(nlType, nlPeriod, tileList)
     ## }, ctryCodes, nlType)
-}
+## }
 ## broke
 ## Rnightlights:::getCtryNlData(ctryCodes, "highest", nlType, nlPeriod, nlStats, ignoreMissing=FALSE)
 ## Rnightlights::getCtryRasterOutputFnamePath(ctryCodes, nlType, nlPeriod)
