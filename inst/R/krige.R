@@ -10,19 +10,19 @@ library(rnaturalearth)
 ## SETUP (note tifdir, country, dfrIpums, slGl2, and the data() function call)
 workdir <- file.path(.Platform $file.sep, 'home', 'cmarmstrong', 'Desktop') # Sys.getenv('WORKDIR')
 rdadir <- file.path(workdir, 'armstrong18', 'inst', 'RData')
-tifdir <- file.path(workdir, 'armstrong18', 'inst', 'tif', 'PHL') # c('PHL', 'ZAF')
-country <- c('Philippines') # c('Philippines', 'South Africa')
+tifdir <- file.path(workdir, 'armstrong18', 'inst', 'tif', 'ZAF') # c('PHL', 'ZAF')
+country <- c('Africa') # c('Philippines', 'South Africa')
 ## quoSvi <- quote(dfrIpums $COUNTRY%in%c(608, 710))
 
 ## ONLY IF RK
-## load(file.path(rdadir, 'krgSviPHL.RData'))
-## beta <- krgSviPHL $zHat $beta
+load(file.path(rdadir, 'krgSviPHL10.RData'))
+beta <- krgSviPHL10 $zHat $beta
 
-data(ipumsPHL10) # ipumsPHL ipumsZAF
+data(ipumsZAF) # ipumsPHLYY ipumsZAF
 data(stGeolev2)
-data(spGeo2PH10)
-dfrIpums <- ipumsPHL10 # ipumsPHL ipumsZAF
-stGl2 <- stGeolev2[stGeolev2 $CNTRY_CODE==608, ] # %in% c(608, 710)
+## data(spGeo2PH10)
+dfrIpums <- ipumsZAF # ipumsPHLYY ipumsZAF
+stGl2 <- stGeolev2[stGeolev2 $CNTRY_CODE==710, ] # %in% c(608, 710)
 spGl2 <- as(stGl2, 'Spatial')
 
 ## merge rasters
@@ -93,14 +93,14 @@ form <- svi~acc+nl+pop+urb
 
 ## aggregate svi to geolevel 2
 ## lWgt <- by(dfrIpums, dfrIpums $GEOLEV2, function(dfrGl2) weight('svi', dfrGl2, 'PERWT'))
-lWgtPH10 <- by(dfrIpums, dfrIpums $GEO2_PH2010, function(dfrGl2) weight('svi', dfrGl2, 'PERWT'))
+## lWgtPH10 <- by(dfrIpums, dfrIpums $GEO2_PH2010, function(dfrGl2) weight('svi', dfrGl2, 'PERWT'))
 lWgtGl2 <- by(dfrIpums, dfrIpums $GEOLEV2, function(dfrGl2) weight('svi', dfrGl2, 'PERWT'))
 ## xbar <- sapply(lWgt, function(dfrGl2) { # geolev2 weighted means
 ##     weighted.mean(as.numeric(dfrGl2[, 'svi']), dfrGl2 $wtFreq, na.rm=TRUE)
 ## })
-xbarPH10 <- sapply(lWgtPH10, function(dfrGl2) { # geolev2 weighted means
-    weighted.mean(as.numeric(dfrGl2[, 'svi']), dfrGl2 $wtFreq, na.rm=TRUE)
-})
+## xbarPH10 <- sapply(lWgtPH10, function(dfrGl2) { # geolev2 weighted means
+##     weighted.mean(as.numeric(dfrGl2[, 'svi']), dfrGl2 $wtFreq, na.rm=TRUE)
+## })
 xbarGl2 <- sapply(lWgtGl2, function(dfrGl2) { # geolev2 weighted means
     weighted.mean(as.numeric(dfrGl2[, 'svi']), dfrGl2 $wtFreq, na.rm=TRUE)
 })
@@ -113,17 +113,17 @@ xbarGl2 <- sapply(lWgtGl2, function(dfrGl2) { # geolev2 weighted means
 ## if(scale) xbar <- xbar / sd(xbar)
 
 ## spGl2 $svi <- xbar[match(spGl2 $GEOLEVEL2, names(xbar))]
-spGeo2PH10 $svi <- xbarPH10[match(spGeo2PH10 $IPUM2010, names(xbarPH10))]
+## spGeo2PH10 $svi <- xbarPH10[match(spGeo2PH10 $IPUM2010, names(xbarPH10))]
 spGl2 $svi <- xbarGl2[match(spGl2 $GEOLEVEL2, names(xbarGl2))]
 
 ## sidescale
-spGeo2PH10NoMiss <- spGeo2PH10[!is.na(spGeo2PH10 $svi), ]
+## spGeo2PH10NoMiss <- spGeo2PH10[!is.na(spGeo2PH10 $svi), ]
 ## spGl2NoMiss <- spGl2[!is.na(spGl2 $svi), ]
-v <- gstat::variogram(svi~1, data=spGeo2PH10NoMiss)
-vgmSS <- gstat::fit.variogram(v, gstat::vgm('Sph'))
-krigeGeo2 <- krige0(svi~1, spGeo2PH10NoMiss, spGl2, parVgmArea, vgm=vgmSS, nnodes=28)
-missSvi <- is.na(spGl2 $svi)
-spGl2[missSvi, 'svi'] <- krigeGeo2[['pred']][missSvi]
+## v <- gstat::variogram(svi~1, data=spGeo2PH10NoMiss)
+## vgmSS <- gstat::fit.variogram(v, gstat::vgm('Sph'))
+## krigeGeo2 <- krige0(svi~1, spGeo2PH10NoMiss, spGl2, parVgmArea, vgm=vgmSS, nnodes=28)
+## missSvi <- is.na(spGl2 $svi)
+## spGl2[missSvi, 'svi'] <- krigeGeo2[['pred']][missSvi]
 
 ## clip spGl2 (not necessary?)
 ## spClip0 <- rnaturalearth::ne_states(country=country)
@@ -135,12 +135,12 @@ spGl2[missSvi, 'svi'] <- krigeGeo2[['pred']][missSvi]
 ## vClip0 <- apply(mClip0, 2, any)
 ## spClip0 <- spGl2[vClip0, drop=FALSE]
 
-nnodes_ex <- c(rep('129.229.26.83', 28), rep('129.229.26.102', 6)) #, rep('129.229.26.100', 2))
+nnodes_ex <- c(rep('129.229.26.83', 12), rep('129.229.26.102', 6)) #, rep('129.229.26.100', 2))
 nnodes_vgm <- c(rep('129.229.26.83', 28), rep('129.229.26.102', 22)) #, rep('129.229.26.100', 14))
-## stop()
+stop()
 krigeSvi <- ripums::krige(form, spGl2, rstack, vgm=gstat::vgm('Exp'),
                           nnodes_ex, nnodes_vgm, master='129.229.26.83', homogeneous=FALSE,
-                          computeVar=TRUE) #, beta=beta)
+                          computeVar=TRUE, beta=beta)
 ## krigeSvi <- ripums::krige(form, spGeo2PH10, rstack, vgm=gstat::vgm('Exp'),
 ##                           nnodes_ex, nnodes_vgm, master='129.229.26.83', homogeneous=FALSE,
 ##                           computeVar=TRUE) #, beta=beta)
