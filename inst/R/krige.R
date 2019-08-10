@@ -14,7 +14,7 @@ tifdir <- file.path(workdir, 'armstrong18', 'inst', 'tif', 'ZAF') # c('PHL', 'ZA
 country <- c('Africa') # c('Philippines', 'South Africa')
 ## quoSvi <- quote(dfrIpums $COUNTRY%in%c(608, 710))
 
-## ONLY IF RK
+## ONLY IF UK
 load(file.path(rdadir, 'krgSviPHL10.RData'))
 beta <- krgSviPHL10 $zHat $beta
 
